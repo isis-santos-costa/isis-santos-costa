@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🙂
-• 🔗 I'm a Supply Chain enthusiast, focused in Demand Forecasting, S&OP, IBP, FP&A
+• 🔗 I'm a Data Analyst, interested in Time Series, Supply Chain, Demand Forecasting, S&OP, IBP, FP&A
 • 🌎 Valuing interconnectednesses, I'm interested in both quanti + qualitative <a href='https://www.researchgate.net/profile/Isis_Santos_Costa/research'>research</a>
 • 👩‍💻 Currently taking the <a href='https://www.coursera.org/professional-certificates/ibm-data-science'>IBM Data Science Professional Certificate</a>
 • 🐍 Practicing Python: <a href='https://www.hackerrank.com/isissantoscosta'>HackerRank</a> [⭐⭐⭐⭐⭐ 5-star Badge] & <a href="https://www.kaggle.com/learn/certification/isissantoscosta/intro-to-machine-learning">Machine Learning</a>: <a href='https://www.kaggle.com/isissantoscosta'>Kaggle</a>
