@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🙂
-• 📈 I'm a Business Intelligence Data Analyst @Rocket.Chat, ex-DiDi Chuxing, interested in <a href='https://www.researchgate.net/profile/Isis_Santos_Costa/research'>applied research</a> in Mathematical Modeling, Time Series, Neural Nets • 👩‍💻 Active SQL contributor on <a href='https://stackoverflow.com/users/7865030/isis-santos-costa'>Stack Overflow</a> • 🎓 Currently pursuing Certification as an IBM Data Science Professional • 💬 You reach me <a href='https://www.linkedin.com/in/isiscosta/'>here</a> 😃
+🙂 • 📈 I'm a BI Data Analyst at Rocket.Chat • 🕵️‍♀️ interested in <a href='https://www.researchgate.net/profile/Isis_Santos_Costa/research'>applied research</a> in Mathematical Modeling, Time Series, Neural Nets <br>
+🎓 Currently pursuing Certification as an IBM Data Science Professional • 
+👩‍💻 Active SQL contributor on <a href='https://stackoverflow.com/users/7865030/isis-santos-costa'>Stack Overflow</a> <br>
+💬 You reach me <a href='https://www.linkedin.com/in/isiscosta/'>here</a> 😃
