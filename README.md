@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 🙂
-• 👩‍💻 I'm a Data Analyst with a marked interest in Data Engineering, acting as an [active **\[SQL\]** Stack Overflow contributor][1] in free-time
+• 👩‍💻 I'm a Data Analyst with a marked interest in Data Engineering, and an [active **\[SQL\]** Stack Overflow contributor][1]
 • 🔎 Driven by intellectual curiousity, practice independent [research in Demand Forecasting][2], having also previous corporate work in Industrial Engineering R&D, especially for Steel Mills
 • 🎓 Pursuing [IBM Data Science Professional Certificate][3]
 • 🐍 Practicing [Python][4] & [Machine Learning][5]
