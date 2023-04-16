@@ -13,6 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Interested in 💬 <b>[Product Data | B2B SaaS | PLG][1]</b> ☕
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- Intro -->
+<div id="user-content-toc"><ul><summary><h2 style="display: inline-block;">
+  Interested in 💬 <b><a href='https://www.linkedin.com/in/isis-santos-costa/'>Product Data | B2B SaaS | PLG</a></b> ☕ 
+  </h2></summary></ul></div>
+  
+#
 
-  [1]: https://www.linkedin.com/in/isis-santos-costa/
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- Portfolio -->
+<div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"> Portfolio </h2></summary></ul></div>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- when-riders-meet-drivers -->
+<div id="user-content-toc"><ul><summary>
+  <h3 style="display: inline-block;"> 📌 <code> when-riders-meet-drivers </code> </h3>
+</summary></ul></div>
+
+The repository <b>when-riders-meet-drivers</b> pinned below is part of a study of the matching and contrasting points in the daily and weekly seasonality of the different sides of a ride-hailing marketplace. Specifically, the search is for gaining an insight into the following questions:
+
+> <i> « Are there any significant differences between favorite drivers' schedules and passengers' needs? » </i>  
+> <i> « If so, when do the most critical imbalances occur? » </i> 
+
+Since ride-hailing is a business run by private companies that keep such data confidential, the supply-demand dynamics is taken as ann approximation, for which data is available from BigQuery's public datasets.
+
+Tags: `product-analytics`, `sql`, `bigquery`.
+
+#
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
