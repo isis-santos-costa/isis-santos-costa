@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   Interested in 💬 <b><a href='https://www.linkedin.com/in/isis-santos-costa/'>Product Data | B2B SaaS | PLG</a></b> ☕ 
   </h2></summary></ul></div>
   
-#
+___
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- Portfolio -->
@@ -38,9 +38,11 @@ The repository `when-riders-meet-drivers` is part of a study in understanding th
 
 Since ride-hailing is a business run by private companies that keep such data confidential, the supply-demand dynamics is taken as ann approximation, for which data is available from BigQuery's public datasets.
 
-Tags: `product-analytics`, `sql`, `bigquery`.
+Tags: `product-analytics`, `sql`, `bigquery`.  
 
-#
+<br>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+___
 
