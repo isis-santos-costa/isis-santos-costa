@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- when-riders-meet-drivers -->
 <div id="user-content-toc"><ul><summary>
-  <h3 style="display: inline-block;"> 📌 <code> when-riders-meet-drivers </code> </h3>
+  <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'> when-riders-meet-drivers </a> </h3>
 </summary></ul></div>
 
-The repository <b>when-riders-meet-drivers</b> pinned below is part of a study of the matching and contrasting points in the daily and weekly seasonality of the different sides of a ride-hailing marketplace. Specifically, the search is for gaining an insight into the following questions:
+The repository `when-riders-meet-drivers` is part of a study in understanding the matching and contrasting points in the daily and weekly seasonality of the different sides of a ride-hailing marketplace. Specifically, the search is for gaining an insight into the following questions:
 
 > <i> « Are there any significant differences between favorite drivers' schedules and passengers' needs? » </i>  
 > <i> « If so, when do the most critical imbalances occur? » </i> 
