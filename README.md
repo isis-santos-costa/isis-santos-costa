@@ -28,7 +28,7 @@ ___
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- when-riders-meet-drivers -->
 <div id="user-content-toc"><ul><summary>
-  <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'> when-supply-meets-demand </a> </h3>
+  <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Supply-demand in sync</a> </h3>
 </summary></ul></div>
 
 The repository `when-riders-meet-drivers` is part of a study in understanding the matching and contrasting points in the daily and weekly seasonality of the different sides of a ride-hailing marketplace. Specifically, the search is for insight into the following questions:
