@@ -31,7 +31,7 @@ ___
   <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Syncing supply with demand</a> </h3>
 </summary></ul></div>
 
-The repository `when-riders-meet-drivers` is part of a study on **ride-hailing** marketplaces. In this business field, **timeliness** is key. Focusing on the issue, **a framework is presented**, designed to bring an understanding of the points of correspondence and contrast in the daily and weekly schedules of supply and demand.  
+This repository is part of a study on a **marketplace** for which **timeliness** is key. Focusing on the issue, **a framework is presented**, designed to bring an understanding of the points of correspondence and contrast in the daily and weekly schedules of supply and demand.  
 
 Specifically, the **framework enables an at-a-glance insight** into the following questions:  
 
