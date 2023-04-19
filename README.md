@@ -15,15 +15,20 @@ Here are some ideas to get you started:
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- Intro -->
+<!-- 
 <div id="user-content-toc"><ul><summary><h2 style="display: inline-block;">
   Interested in 💬 <b><a href='https://www.linkedin.com/in/isis-santos-costa/'>Product Data | B2B SaaS | PLG</a></b> ☕ 
-  </h2></summary></ul></div>
-  
-___
+  </h2></summary></ul></div> 
+-->
+[![contributors](https://img.shields.io/github/contributors/isis-santos-costa/when-riders-meet-drivers?color=lightgrey)](http://isissantoscosta.com/)
+[![commit activity](https://img.shields.io/github/commit-activity/m/isis-santos-costa/when-riders-meet-drivers)](https://github.com/isis-santos-costa/)
+[![Product Data | B2B SaaS | PLG](https://img.shields.io/badge/product%20data%20%7C%20b2b%20saas%20%7C%20plg-%E2%98%95-purple)](http://isissantoscosta.com/)    
+<!-- ___ -->
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!-- Portfolio -->
-<div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"> Portfolio </h2></summary></ul></div>
+<!-- Portfolio --> 
+# Portfolio
+<!-- <div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"> Portfolio </h2></summary></ul></div> -->
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- when-riders-meet-drivers -->
