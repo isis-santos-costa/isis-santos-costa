@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- Intro -->
-<a href="http://isissantoscosta.com/" target="_blank">
-  <img src="https://img.shields.io/github/contributors/isis-santos-costa/when-riders-meet-drivers?color=lightgrey" alt="Isis Santos Costa"></a>
-<a href="https://github.com/isis-santos-costa/" target="_blank">
-  <img src="https://img.shields.io/github/commit-activity/m/isis-santos-costa/when-riders-meet-drivers" alt="Commit activity on portfolio item"></a>
-<a href="http://isissantoscosta.com/" target="_blank">
-  <img src="https://img.shields.io/badge/product%20data%20%7C%20b2b%20saas%20%7C%20plg-%E2%98%95-purple" alt="Product Data | B2B SaaS | PLG"></a>    
+[![contributors](https://img.shields.io/github/contributors/isis-santos-costa/when-riders-meet-drivers?color=lightgrey)](http://isissantoscosta.com/)
+[![commit activity](https://img.shields.io/github/commit-activity/m/isis-santos-costa/when-riders-meet-drivers)](https://github.com/isis-santos-costa/)
+[![Product Data | B2B SaaS | PLG](https://img.shields.io/badge/product%20data%20%7C%20b2b%20saas%20%7C%20plg-%E2%98%95-purple)](http://isissantoscosta.com/)   
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- Portfolio --> 
