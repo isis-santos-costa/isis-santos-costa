@@ -31,12 +31,14 @@ ___
   <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Syncing supply with demand</a> </h3>
 </summary></ul></div>
 
-The repository `when-riders-meet-drivers` is part of a study in understanding the matching and contrasting points in the daily and weekly seasonality of the different sides of a ride-hailing marketplace. Specifically, the search is for insight into the following questions:
+The repository `when-riders-meet-drivers` is part of a study on **ride-hailing** marketplaces. In this business field, **timeliness** is key. Focusing on this issue, **a framework is presented**, designed to bring an understanding of the points of correspondence and contrast in the daily and weekly schedules of supply and demand.  
 
-> <i> « Are there any significant differences between favorite drivers' schedules and passengers' needs? » </i>  
-> <i> « If so, when do the most critical imbalances occur? » </i> 
+Specifically, the **framework enables an at-a-glance insight** into the following questions:  
 
-Since ride-hailing is a business run by private companies that keep such data confidential, the supply-demand dynamics of a city-hall regulated taxi market is taken as an approximation, for which data is available in Google BigQuery public datasets.
+> <i> « Are there any significant differences between preferred schedules on the supply and demand sides? » </i>  
+> <i> « If so, when do the most critical disparities occur? » </i>  
+
+<br>
 
 Tags: `product-analytics`, `sql`, `bigquery`.  
 
