@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Take a (data) look to sync supply with demand</a> </h3>
 </summary></ul></div>
 
-This repository is part of a study on **marketplaces**. Focusing on the issue of **timeliness**, a framework is presented, designed to bring an understanding of the points of correspondence and contrast in the daily and weekly schedules of supply and demand.  
+This repository is part of a study on **marketplaces**. Focusing on the issue of **timeliness**, a data visualization prototype is presented, designed to bring to light the points of correspondence and contrast in the daily and weekly schedules of supply and demand.  
 
-The proposed **framework enables at-a-glance insights** into the following questions:  
+The proposed prototype **enables at-a-glance insights** into the following questions:  
 
 > <i> « Are there any significant differences between preferred schedules on the supply and demand sides? » </i>  
 > <i> « If so, when do the most critical disparities occur? » </i>  
