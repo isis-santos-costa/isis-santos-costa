@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- when-riders-meet-drivers -->
 <div id="user-content-toc"><ul><summary>
-  <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Take a (data) to sync supply with demand</a> </h3>
+  <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Take a (data) look to sync supply with demand</a> </h3>
 </summary></ul></div>
 
 This repository is part of a study on **marketplaces**. Focusing on the issue of **timeliness**, a framework is presented, designed to bring an understanding of the points of correspondence and contrast in the daily and weekly schedules of supply and demand.  
