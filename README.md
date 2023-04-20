@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- Intro -->
-[![contributors](https://img.shields.io/github/contributors/isis-santos-costa/when-riders-meet-drivers?color=lightgrey)](http://isissantoscosta.com/)
+<!-- [![portfolio stars](https://img.shields.io/github/stars/isis-santos-costa?style=social)](https://github.com/isis-santos-costa/) -->
+[![stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/7865030?color=brightgreen)](https://stackoverflow.com/users/7865030/isis-santos-costa/)
 [![commit activity](https://img.shields.io/github/commit-activity/m/isis-santos-costa/when-riders-meet-drivers)](https://github.com/isis-santos-costa/when-riders-meet-drivers/)
-[![Product Data | B2B SaaS | PLG](https://img.shields.io/badge/product%20data%20%7C%20b2b%20saas%20%7C%20plg-%E2%98%95-purple)](http://isissantoscosta.com/)   
+[![Product Data | B2B SaaS | PLG](https://img.shields.io/badge/product%20data%20%7C%20b2b%20saas%20%7C%20plg-%E2%98%95-purple)](https://www.linkedin.com/in/isis-santos-costa/)   
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- Portfolio --> 
