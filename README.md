@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 This repository is part of a study on **marketplaces**. Focusing on the issue of **timeliness**, a data visualization prototype is proposed, designed to bring to light the points of correspondence and contrast in the daily and weekly schedules of supply and demand.  
 
-The proposed prototype **enables at-a-glance insights** into the following questions:  
+The proposed prototype **enables an at-a-glance insight** into the following questions:  
 
 > <i> « Are there any significant differences between preferred schedules on the supply and demand sides? » </i>  
 > <i> « If so, when do the most critical disparities occur? » </i>  
