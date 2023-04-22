@@ -31,9 +31,9 @@ Here are some ideas to get you started:
   <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Supply-demand in sync</a> </h3>
 </summary></ul></div>
 
-Uncertainty is there. Ever more pervasive, manifest as unpredictability in businesses and lives. 
+Uncertainty is there. Ever more pervasive, manifested as unpredictability in businesses and lives. 
 
-This repository uses seasonal patterns as a tool in identifying areas of **what can be predicted** within certain ranges. It is part of a study on **marketplaces**. Focusing on the issue of **timeliness**, a data visualization prototype is proposed, designed to bring to light the points of correspondence and contrast in the daily and weekly schedules of supply and demand.  
+This repository uses **seasonal patterns** as a tool in identifying areas of **what can be predicted** within certain ranges. It is part of a study on **marketplaces**. Focusing on the issue of **timeliness**, a data visualization prototype is proposed, designed to bring to light the points of correspondence and contrast in the daily and weekly schedules of supply and demand.  
 
 The proposed prototype **enables an at-a-glance insight** into the following questions:  
 
