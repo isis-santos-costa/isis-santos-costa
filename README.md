@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- when-riders-meet-drivers -->
 <div id="user-content-toc"><ul><summary>
-  <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Adding predictability</a> </h3>
+  <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Adding some predictability</a> </h3>
 </summary></ul></div>
 
 Uncertainty is there. Ever more pervasive, manifested as unpredictability in businesses and lives. 
