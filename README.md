@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <!-- [![🔥 freeCodeCamp points](https://img.shields.io/freecodecamp/points/isis-santos-costa?label=%F0%9F%94%A5%20freeCodeCamp%20points)](https://www.freecodecamp.org/isis-santos-costa/) -->
 [![stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/7865030?color=brightgreen)](https://stackoverflow.com/users/7865030/isis-santos-costa/)
 [![commit activity](https://img.shields.io/github/commit-activity/m/isis-santos-costa/when-riders-meet-drivers?label=commit%20activity%20%28portfolio%29)](https://github.com/isis-santos-costa/when-riders-meet-drivers/)
+![profile views](https://komarev.com/ghpvc/?username=isis-santos-costa&label=profile+views&color=aaaaaa)
 [![Product Data | B2B SaaS | PLG](https://img.shields.io/badge/product%20data%20%7C%20b2b%20saas%20%7C%20plg-%E2%98%95-purple)](https://www.linkedin.com/in/isis-santos-costa/)   
+
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- Portfolio --> 
