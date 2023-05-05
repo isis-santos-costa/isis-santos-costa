@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- Intro -->
 <!-- [![portfolio stars](https://img.shields.io/github/stars/isis-santos-costa?style=social)](https://github.com/isis-santos-costa/) -->
 <!-- [![🔥 freeCodeCamp points](https://img.shields.io/freecodecamp/points/isis-santos-costa?label=%F0%9F%94%A5%20freeCodeCamp%20points)](https://www.freecodecamp.org/isis-santos-costa/) -->
@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 [![commit activity](https://img.shields.io/github/commit-activity/m/isis-santos-costa/when-riders-meet-drivers?label=commit%20activity%20%28portfolio%29)](https://github.com/isis-santos-costa/when-riders-meet-drivers/)
 [![Product Data | B2B SaaS | PLG](https://img.shields.io/badge/product%20data%20%7C%20b2b%20saas%20%7C%20plg-%E2%98%95-purple)](https://www.linkedin.com/in/isis-santos-costa/)   
 
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- Portfolio --> 
-# Portfolio
+# Featured
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- when-riders-meet-drivers -->
 <div id="user-content-toc"><ul><summary>
   <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Creating predictability to GROW REVENUE</a> </h3>
@@ -49,7 +48,22 @@ Tags: `product-analytics`, `sql`, `bigquery`.
 
 <br>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------ -->
+___
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- Portfolio --> 
+# Portfolio
+📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>when-riders-meet-drivers</a>
+• uncover seasonal patterns as a lever for 📈 REVENUE GROWTH 📈 in the ride-hailing business  
+
+📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery'>kaggle-datasets-in-bigquery</a>
+• ☁️ use kaggle datasets in bigquery ☁️  
+
+<br>
 
 ___
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+
+
 
