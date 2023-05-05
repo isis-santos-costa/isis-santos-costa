@@ -55,7 +55,7 @@ ___
 # Portfolio
 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>When riders meet drivers</a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-|&nbsp;&nbsp; Uncover seasonal patterns as a lever for REVENUE GROWTH in the ride-hailing business  
+|&nbsp;&nbsp; Seasonal patterns as a lever for REVENUE GROWTH in the ride-hailing business  
 
 📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery'>Kaggle datasets in BigQuery</a>
  &nbsp;&nbsp;
