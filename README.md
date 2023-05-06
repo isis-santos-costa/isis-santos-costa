@@ -52,14 +52,14 @@ ___
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- Portfolio --> 
-# Portfolio
-📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>When riders meet drivers</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-|&nbsp;&nbsp; Seasonal patterns as a lever for REVENUE GROWTH in the ride-hailing business  
+# Portfolio  
+📌 __[When Riders Meet Drivers](https://github.com/isis-santos-costa/when-riders-meet-drivers)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ ⇒ &nbsp; *Seasonal patterns as a lever to GROW REVENUE in the ride-hailing business*__
 
-📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery'>Kaggle datasets in BigQuery</a>
- &nbsp;&nbsp;
-|&nbsp;&nbsp; Use Kaggle datasets in BigQuery  
+📌 __[Kaggle Datasets in BigQuery](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)
+ &nbsp;
+ ⇒ &nbsp; *Use Kaggle datasets in BigQuery*__  
 
 <br>
 
