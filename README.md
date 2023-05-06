@@ -68,7 +68,7 @@ ___
 
 📌 __[Kaggle Datasets in BigQuery](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)
  &nbsp;
- ⇒ &nbsp; *Use Kaggle datasets in BigQuery*__  
+ ⇒ &nbsp; *Using Kaggle datasets in BigQuery*__  
 
 <br>
 
