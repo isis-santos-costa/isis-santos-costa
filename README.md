@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!-- when-riders-meet-drivers -->
 <div id="user-content-toc"><ul><summary>
   <h3 style="display: inline-block;"> 📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>
-    Seasonal patterns as a lever to GROW REVENUE</a> </h3>
+    Seasonal patterns as a lever to GROW REVENUE</a> (⚠️ WIP)</h3>
 </summary></ul></div>
 
 Uncertainty is there. Ever more pervasive, manifested as unpredictability in businesses and lives. 
@@ -62,7 +62,7 @@ ___
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- Portfolio --> 
 # Portfolio  
-📌 __[When Riders Meet Drivers](https://github.com/isis-santos-costa/when-riders-meet-drivers)
+📌 __[When Riders Meet Drivers](https://github.com/isis-santos-costa/when-riders-meet-drivers) (⚠️ WIP)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  ⇒ &nbsp; *Seasonal patterns as a lever to GROW REVENUE in the ride-hailing business*__
 
