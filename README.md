@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   </td>
   
   <td>
-Uncertainty is there. <br>Ever more pervasive, manifested as unpredictability in businesses and lives.  <br><br>  
+Uncertainty is there. Ever more pervasive, manifested as unpredictability in businesses and lives.  <br><br>  
    
 This [repository](https://github.com/isis-santos-costa/when-riders-meet-drivers) uses **seasonal patterns** as a tool in identifying areas of **what can be predicted** within certain ranges. It is part of a study on **marketplaces**. Focusing on the issue of **timeliness**, a data visualization prototype is proposed, designed to bring to light the points of match and contrast in the typical daily and weekly schedules of supply and demand.  
 
