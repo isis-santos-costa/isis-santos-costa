@@ -37,6 +37,27 @@ Here are some ideas to get you started:
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- when-riders-meet-drivers -->
+
+<div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
+     📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Seasonal patterns as a lever to GROW REVENUE
+ </a></h3></summary></ul></div>
+
+<img src="https://github.com/isis-santos-costa/isis-santos-costa/assets/58894233/e72eb787-3599-416e-8aab-abf37e775fc3" width=360 align='left'>
+Carving out <b>predictability</b>.  <br><br>  
+   
+This [repository](https://github.com/isis-santos-costa/when-riders-meet-drivers) uses **seasonal patterns** as a tool in identifying areas of **what can be predicted** within certain ranges. It is part of a study on **marketplaces**. Focusing on the issue of **timeliness**, an analysis framework is proposed, designed to bring to light the points of match and contrast in the typical daily and weekly schedules of supply and demand.  
+
+The proposed approach **enables an at-a-glance insight** into the following questions:  
+
+> <i> « Are there any significant differences between preferred schedules on the supply and demand sides? » </i>  
+> <i> « If so, when do the most critical disparities occur? » </i>
+
+Tags: `product-analytics`, `sql`, `bigquery`.
+
+<br>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- when-riders-meet-drivers -->
 <table>
  <tr>
   <td colspan=2>
