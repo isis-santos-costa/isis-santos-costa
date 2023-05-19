@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- Intro -->
+
 <!-- [![portfolio stars](https://img.shields.io/github/stars/isis-santos-costa?style=social)](https://github.com/isis-santos-costa/) -->
 <!-- [![🔥 freeCodeCamp points](https://img.shields.io/freecodecamp/points/isis-santos-costa?label=%F0%9F%94%A5%20freeCodeCamp%20points)](https://www.freecodecamp.org/isis-santos-costa/) -->
 <!-- ![profile views](https://komarev.com/ghpvc/?username=isis-santos-costa&label=profile+views&color=aaaaaa) -->
@@ -32,6 +33,24 @@ Here are some ideas to get you started:
 ``` -->
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- Portfolio --> 
+# Portfolio  
+
+📌 __[Growth Marketing](https://github.com/isis-santos-costa/growth-marketing)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ ⇒ &nbsp; *Growth Marketing Analysis: A/B Testing and Department Growth*__  
+ 
+📌 __[When Riders Meet Drivers](https://github.com/isis-santos-costa/when-riders-meet-drivers)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ ⇒ &nbsp; *Seasonal patterns as a lever to GROW REVENUE in the ride-hailing business*__
+
+📌 __[Kaggle Datasets in BigQuery](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)
+ &nbsp;
+ ⇒ &nbsp; *Use Kaggle datasets in BigQuery*__  
+
+___
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- Featured --> 
 # Featured
 
@@ -39,7 +58,9 @@ Here are some ideas to get you started:
 <!-- when-riders-meet-drivers -->
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
-     📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>Seasonal patterns as a lever to GROW REVENUE
+     📍 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>
+ <i>When Riders Meet Drivers</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ ⇒ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seasonal patterns as a lever to GROW REVENUE
  </a></h3></summary></ul></div>
 
 <img src="https://github.com/isis-santos-costa/isis-santos-costa/assets/58894233/e72eb787-3599-416e-8aab-abf37e775fc3" width=360 align='left'>
@@ -53,25 +74,6 @@ The proposed approach **enables an at-a-glance insight** into the following ques
 > <i> « If so, when do the most critical disparities occur? » </i>
 
 Tags: `product-analytics`, `sql`, `bigquery`.
-
-<br>
-
-___
-
-<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
-<!-- Portfolio --> 
-# Portfolio  
-📍 __[When Riders Meet Drivers](https://github.com/isis-santos-costa/when-riders-meet-drivers)
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp; *Seasonal patterns as a lever to GROW REVENUE in the ride-hailing business*__
-
-📍 __[Kaggle Datasets in BigQuery](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)
- &nbsp;
- ⇒ &nbsp; *Use Kaggle datasets in BigQuery*__  
-
-📍 __[Growth Marketing](https://github.com/isis-santos-costa/growth-marketing)
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp; *Growth Marketing Analysis: A/B and Department Growth*__  
 
 <br>
 
