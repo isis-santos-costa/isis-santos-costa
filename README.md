@@ -59,8 +59,8 @@ ___
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
      📍 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers'>
- <i>When Riders Meet Drivers</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- ⇒ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seasonal patterns as a lever to GROW REVENUE
+ <i>When Riders Meet Drivers</i> &nbsp; 
+ ⇒ &nbsp; Seasonal patterns as a lever to GROW REVENUE
  </a></h3></summary></ul></div>
 
 <img src="https://github.com/isis-santos-costa/isis-santos-costa/assets/58894233/e72eb787-3599-416e-8aab-abf37e775fc3" width=360 align='left'>
