@@ -38,15 +38,15 @@ Here are some ideas to get you started:
 
 📌 __[Growth Marketing](https://github.com/isis-santos-costa/growth-marketing)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp; *Growth Marketing Analysis: A/B Testing and Department Growth*__  
+ ⇒ &nbsp;&nbsp;&nbsp; *Growth Marketing Analysis: A/B Testing and Department Growth*__  
  
 📌 __[When Riders Meet Drivers](https://github.com/isis-santos-costa/when-riders-meet-drivers)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp; *Seasonal patterns as a lever to GROW REVENUE in the ride-hailing business*__
+ ⇒ &nbsp;&nbsp;&nbsp; *Seasonal patterns as a lever to GROW REVENUE in the ride-hailing business*__
 
 📌 __[Kaggle Datasets in BigQuery](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)
  &nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp;&nbsp; *Use Kaggle datasets in BigQuery*__  
+ ⇒ &nbsp;&nbsp;&nbsp; *Use Kaggle datasets in BigQuery*__  
 
 ___
 
