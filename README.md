@@ -41,8 +41,8 @@ Here are some ideas to get you started:
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  ⇒ &nbsp;&nbsp;&nbsp; *Seasonal patterns as a lever to GROW REVENUE in the ride-hailing business*__
 
-📌 __[Growth Marketing](https://github.com/isis-santos-costa/growth-marketing)
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📌 __[Growth Marketing (WIP)](https://github.com/isis-santos-costa/growth-marketing)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
  ⇒ &nbsp;&nbsp;&nbsp; *Growth Marketing Analysis: A/B Testing and Department Growth*__ (WIP)  
 
 📌 __[Kaggle Datasets in BigQuery](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)
