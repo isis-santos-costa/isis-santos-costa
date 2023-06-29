@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  
 📌 __[When Riders Meet Drivers](https://github.com/isis-santos-costa/when-riders-meet-drivers)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp;&nbsp;&nbsp; *Seasonal patterns as a lever to GROW REVENUE in the ride-hailing business*__
+ ⇒ &nbsp;&nbsp;&nbsp; *Seasonality as a lever to GROW REVENUE in the ride-hailing business*__
 
 📌 __[Growth Marketing (WIP)](https://github.com/isis-santos-costa/growth-marketing)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
