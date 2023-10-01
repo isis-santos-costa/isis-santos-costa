@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- Portfolio --> 
-# Portfolio  
+# Projects  
  
 📌 __[When Riders Meet Drivers](https://github.com/isis-santos-costa/when-riders-meet-drivers)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
