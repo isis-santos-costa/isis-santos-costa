@@ -38,20 +38,20 @@ Here are some ideas to get you started:
 # Portfolio  
  
 📌 __[Seasonality as a growth lever](https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md)
- &nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  ⇒ &nbsp;&nbsp;&nbsp; *Orchestrating a two-sided marketplace*__ 
 &nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/isis-santos-costa/assets/58894233/05748aa1-a136-4abb-a7c7-f51d0ae3ae1b' height=32 alt='Google Sheets'   valign='middle'></img>
 &nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/f07607fb-0030-4d13-9b93-6cbb66a5ef57'  height=26 alt='Google-BigQuery' valign='middle'></img>
 &nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/7cf85c82-ca7d-4d2e-a1c0-b22a78ae42a2'  height=26 alt='SQL'             valign='middle'></img> 
 
 📌 __[Growth marketing analysis](https://github.com/isis-santos-costa/growth-marketing)
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  ⇒ &nbsp;&nbsp;&nbsp; *A/B Testing and Department Growth*__ (WIP) 
 &nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/f07607fb-0030-4d13-9b93-6cbb66a5ef57' height=26 alt='Google-BigQuery' valign='middle'></img>
 &nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/7cf85c82-ca7d-4d2e-a1c0-b22a78ae42a2' height=26 alt='SQL'             valign='middle'></img>
 
 📌 __[Kaggle datasets into BigQuery](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)
- &nbsp;
+ &nbsp;&nbsp;&nbsp;
  ⇒ &nbsp;&nbsp;&nbsp; *Loading and troubleshooting*__ 
 &nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/f07607fb-0030-4d13-9b93-6cbb66a5ef57' height=26 alt='Google-BigQuery' valign='middle'></img>  
 
