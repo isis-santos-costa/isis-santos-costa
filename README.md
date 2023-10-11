@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 
 📌 __[Growth Marketing (WIP)](https://github.com/isis-santos-costa/growth-marketing)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
- ⇒ &nbsp;&nbsp;&nbsp; *Growth Marketing Analysis: A/B Testing and Department Growth*__ (WIP)  
+ ⇒ &nbsp;&nbsp;&nbsp; *Growth Marketing Analysis: A/B Testing and Department Growth*__ (WIP) 
+ &nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/f07607fb-0030-4d13-9b93-6cbb66a5ef57' height=36 alt='Google-BigQuery' valign='middle'></img>
+&nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/7cf85c82-ca7d-4d2e-a1c0-b22a78ae42a2' height=36 alt='SQL' valign='middle'></img>
 
 📌 __[Kaggle Datasets in BigQuery](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)
  &nbsp;&nbsp;&nbsp;&nbsp;
