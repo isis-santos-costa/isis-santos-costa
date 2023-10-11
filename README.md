@@ -68,10 +68,10 @@ ___
      📍 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
  <i>Seasonality as a growth lever</i> &nbsp; 
  ⇒ &nbsp; Orchestrating a two-sided marketplace
-&nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/isis-santos-costa/assets/58894233/05748aa1-a136-4abb-a7c7-f51d0ae3ae1b' height=32 alt='Google Sheets'   valign='middle'></img>
-&nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/f07607fb-0030-4d13-9b93-6cbb66a5ef57'  height=26 alt='Google-BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/7cf85c82-ca7d-4d2e-a1c0-b22a78ae42a2'  height=26 alt='SQL'             valign='middle'></img>
- </a></h3></summary></ul></div><br>
+ </a></h3></summary>
+&nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/isis-santos-costa/assets/58894233/05748aa1-a136-4abb-a7c7-f51d0ae3ae1b' height=39 alt='Google Sheets'   valign='middle'></img>
+&nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/f07607fb-0030-4d13-9b93-6cbb66a5ef57'  height=36 alt='Google-BigQuery' valign='middle'></img>
+&nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/7cf85c82-ca7d-4d2e-a1c0-b22a78ae42a2'  height=36 alt='SQL'             valign='middle'></img></ul></div><br>
 
 <img src="https://github.com/isis-santos-costa/isis-santos-costa/assets/58894233/e72eb787-3599-416e-8aab-abf37e775fc3" width=360 align='left'>
 Carving out <b>predictability</b>.  <br><br>  
