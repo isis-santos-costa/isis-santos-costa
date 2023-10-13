@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
 &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
-&nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=32 alt='Google Sheets'   valign='middle'></img>
+&nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=26 alt='Google Sheets'   valign='middle'></img>
 ](https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md)__ 
 
 
