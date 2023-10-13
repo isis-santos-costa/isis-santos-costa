@@ -72,11 +72,16 @@ ___
 </ul></div>
 
 <table><tr>
-<td><img src='img/department-growth.gif' width=600 align='left'></td>
+<td><img src='img/department-growth.gif' width=530 align='left'></td>
 <td>
-This <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> presents the <b>analysis of an A/B test</b>, and visually summarizes <b>departmental growth trends</b> for sales data of a hypothetical <b>retail store</b>. For A/B testing, revenues are compared following different marketing campaign versions sent to <b>a base of 110,000 customers</b>. For departmental growth analysis, <b>8,234</b> sales transactions from two subsequent years are summarized using different <b>data visualization</b> approaches to (i) display the <b>department ranking</b> in terms of growth, year-over-year (YoY), (ii) <b>reveal large-scale shifts in purchasing habits</b> of subsets of customers, and (iii) <b>unveil overall trends across departments</b>, to be mitigated and to be boosted, for <b>future sales growth</b>.<br><br>  
+This <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> presents the analysis of an <b>A/B test</b> for sales data of a <b>110,000 customer base</b> of a retail store.<br><br>
 
-Tags: `growth`, `analytics`, `ab-testing`
+<b>Departmental growth</b> is also analyzed, summarizing <b>8,234</b> sales transactions to 
+> (i) display the <b>department ranking</b> in terms of growth, year-over-year (YoY),  
+> (ii) <b>reveal large-scale shifts in purchasing habits</b> of subsets of customers, and  
+> (iii) <b>unveil overall trends across departments</b>, to be mitigated and to be boosted, for <b>future sales growth</b>.
+
+<br>Tags: `growth`, `analytics`, `ab-testing`
 </td>
 </tr></table>
 
