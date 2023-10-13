@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 📌 __[Kaggle datasets into BigQuery](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)
  &nbsp;&nbsp;
  ⇒ &nbsp;&nbsp; *Loading and troubleshooting • 2023*__ 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/f07607fb-0030-4d13-9b93-6cbb66a5ef57' height=26 alt='Google-BigQuery' valign='middle'></img>  
 
 ___
