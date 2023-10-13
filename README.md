@@ -58,10 +58,34 @@ Here are some ideas to get you started:
 ___
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
-<!-- Featured --> 
 # Featured
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- Featured # 1 --> 
+<!-- growth-marketing -->
+
+<div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
+     📍 <a href='growth-marketing/README.md'>
+ <i>Growth marketing analysis</i> &nbsp;
+&nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/f07607fb-0030-4d13-9b93-6cbb66a5ef57'  height=36 alt='Google-BigQuery' valign='middle'></img>
+&nbsp;&nbsp;<img src='https://github.com/isis-santos-costa/growth-marketing/assets/58894233/7cf85c82-ca7d-4d2e-a1c0-b22a78ae42a2'  height=36 alt='SQL'             valign='middle'></img></a></h3></summary>
+</ul></div>
+
+<table><tr>
+<td><img src='img/department-growth.gif' width=600 align='left'></td>
+<td>
+This <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> presents the <b>analysis of an A/B test</b>, and visually summarizes <b>departmental growth trends</b> for sales data of a hypothetical <b>retail store</b>. For A/B testing, revenues are compared following different marketing campaign versions sent to <b>a base of 110,000 customers</b>. For departmental growth analysis, <b>8,234</b> sales transactions from two subsequent years are summarized using different <b>data visualization</b> approaches to (i) display the <b>department ranking</b> in terms of growth, year-over-year (YoY), (ii) <b>reveal large-scale shifts in purchasing habits</b> of subsets of customers, and (iii) <b>unveil overall trends across departments</b>, to be mitigated and to be boosted, for <b>future sales growth</b>.<br><br>  
+
+Tags: `growth`, `analytics`, `ab-testing`
+</td>
+</tr></table>
+
+<br>
+
+___
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- Featured # 2 --> 
 <!-- when-riders-meet-drivers -->
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
