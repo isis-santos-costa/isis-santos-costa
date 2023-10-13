@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 📌 __[Seasonality as a growth lever
  &nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp;&nbsp; *Orchestrating a two-sided marketplace • 2023*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ ⇒ &nbsp;&nbsp; *Balancing a two-sided marketplace • 2023*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
 &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
 &nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=32 alt='Google Sheets'   valign='middle'></img>
@@ -73,7 +73,7 @@ ___
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
      📍 <a href='https://github.com/isis-santos-costa/growth-marketing/'>
- <i>Growth marketing analysis</i> &nbsp;
+ <i>Growth marketing analysis (WIP)</i> &nbsp;
 &nbsp;&nbsp;<img src='img/Looker-Studio.png'    height=36 alt='Looker Studio'   valign='middle'></img>
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png'  height=36 alt='Google BigQuery' valign='middle'></img>
 &nbsp;&nbsp;<img src='img/SQL.png'              height=36 alt='SQL'             valign='middle'></img>
