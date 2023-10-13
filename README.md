@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 # Portfolio  
  
 📌 __[Growth marketing analysis
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  ⇒ &nbsp; *A/B Testing and Department Growth • 2023* (WIP) 
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
 &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ](https://github.com/isis-santos-costa/growth-marketing)__
 
 📌 __[Seasonality as a growth lever
- &nbsp;&nbsp;&nbsp;
+ &nbsp;
  ⇒ &nbsp; *Balancing a two-sided marketplace • 2023*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 ](https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md)__ 
 
 
-📌 __[Kaggle datasets into BigQuery
- &nbsp;
+📌 __[Kaggle data into BigQuery
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  ⇒ &nbsp; *Loading and troubleshooting • 2023*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
