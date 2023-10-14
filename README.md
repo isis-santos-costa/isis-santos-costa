@@ -121,7 +121,8 @@ The proposed approach **enables an at-a-glance insight** into the following ques
 > <i> « Are there any significant differences between preferred schedules on the supply and demand sides? » </i>  
 > <i> « If so, when do the most critical disparities occur? » </i>
 
-Tags: `product-analytics`, `sql`, `bigquery`
+Tags: `product-analytics`, `sql`, `bigquery`  
+
 <br>
 
 [↑](#portfolio)
