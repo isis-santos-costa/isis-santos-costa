@@ -94,7 +94,7 @@ This <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository
 </td>
 </tr></table>
 
-<br>
+[↑](#portfolio)
 
 ___
 
@@ -123,7 +123,7 @@ The proposed approach **enables an at-a-glance insight** into the following ques
 
 Tags: `product-analytics`, `sql`, `bigquery`
 
-<br>
+[↑](#portfolio)
 
 ___
 
