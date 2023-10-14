@@ -122,6 +122,7 @@ The proposed approach **enables an at-a-glance insight** into the following ques
 > <i> « If so, when do the most critical disparities occur? » </i>
 
 Tags: `product-analytics`, `sql`, `bigquery`
+<br>
 
 [↑](#portfolio)
 
