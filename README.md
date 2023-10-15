@@ -37,51 +37,26 @@ Here are some ideas to get you started:
 <!-- Portfolio --> 
 # Portfolio  
  
-📌 __[Growth marketing analysis
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp; *A/B Testing and Department Growth • May 2023* 
-&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
-&nbsp;&nbsp;<img src='img/Looker-Studio.png'   height=26 alt='Looker Studio'   valign='middle'></img>
-](https://github.com/isis-santos-costa/growth-marketing)__
-
-📌 __[Seasonality as a growth lever
- &nbsp;
- ⇒ &nbsp; *Balancing a two-sided marketplace • May 2023*
-&nbsp;
-&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
-&nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=26 alt='Google Sheets'   valign='middle'></img>
-](https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md)__ 
-
-
-📌 __[Kaggle data into BigQuery
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp; *Loading and troubleshooting • May 2023*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
-](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)__ 
-
-<div id="user-content-toc"><ul><summary><h5 style="display: inline-block;"> 
-     📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery'>
+<div id="user-content-toc"><ul><summary><h4 style="display: inline-block;"> 
+     📌 <a href='https://github.com/isis-santos-costa/growth-marketing/'>
       Growth marketing analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>A/B Testing and Department Growth • May 2023</i>
       &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
       &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
       &nbsp;&nbsp;<img src='img/Looker-Studio.png'   height=26 alt='Looker Studio'   valign='middle'></img>
      </a><br><br>
-     📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery'>
+     📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
       Seasonality as a growth lever &nbsp; ⇒ &nbsp; <i>Balancing a two-sided marketplace • May 2023</i>
       &nbsp;
       &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
       &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
       &nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=26 alt='Google Sheets'   valign='middle'></img>
      </a><br><br>
-     📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery'>
+     📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery/'>
       Kaggle data into BigQuery &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Loading and troubleshooting • May 2023</i>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
-     </a><
-</h5></summary></ul></div>
+     </a>
+</h4></summary></ul></div>
 
 ___
 
