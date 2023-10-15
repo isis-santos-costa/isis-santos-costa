@@ -111,6 +111,39 @@ ___
      </a></h3></summary>
 </ul></div>
 
+<img src='img/department-growth.gif' width=530 align='left'>
+<img width=1 height=397 align='left'>
+
+**A/B testing** and **departmental growth**.  <br>  
+
+This <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> presents the analysis of an <b>A/B test</b> for sales data of a <b>110,000 customer base</b> of a retail store.<br>
+
+<b>Departmental growth</b> is also analyzed, summarizing <b>8,234</b> sales transactions to 
+> (i) display the <b>department ranking</b> in terms of growth, year-over-year (YoY),  
+> (ii) <b>reveal large-scale shifts in purchasing habits</b> of subsets of customers, and  
+> (iii) <b>unveil overall trends across departments</b>, to be mitigated and to be boosted, for <b>future sales growth</b>.
+
+<br>Tags: `growth`, `analytics`, `ab-testing`  
+
+<br>
+
+[↑](#portfolio)
+
+___
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- Featured # 2 --> 
+<!-- when-riders-meet-drivers -->
+
+<div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
+     📍 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
+ <i>Seasonality as a growth lever for two-sided marketplaces</i> &nbsp;
+&nbsp;&nbsp;<img src='img/Google-Sheets.png'    height=36 alt='Google Sheets'   valign='middle'></img>
+&nbsp;&nbsp;<img src='img/Google-BigQuery.png'  height=36 alt='Google BigQuery' valign='middle'></img>
+&nbsp;&nbsp;<img src='img/SQL.png'              height=36 alt='SQL'             valign='middle'></img>
+     </a></h3></summary>
+</ul></div>
+
 <img src="https://github.com/isis-santos-costa/isis-santos-costa/assets/58894233/e72eb787-3599-416e-8aab-abf37e775fc3" width=360 align='left'>
 Carving out <b>predictability</b>.  <br><br>  
    
