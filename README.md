@@ -81,7 +81,7 @@ ___
 
 **A/B testing** and **departmental growth**.  <br>  
 
-This <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> presents the analysis of an <b>A/B test</b> for sales data of a <b>110,000 customer base</b> of a retail store.<br>
+This <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> presents the analysis of an <b>A/B test</b> with an <b>110,000 customer base</b> of a retail store.<br>
 
 <b>Departmental growth</b> is also analyzed, summarizing <b>8,234</b> sales transactions to 
 > (i) display the <b>department ranking</b> in terms of growth, year-over-year (YoY),  
