@@ -81,7 +81,7 @@ ___
 </ul></div>
 
 <table><tr>
-<td width='55%'><img src='img/department-growth.gif' align='left'></td>
+<td><img src='img/department-growth.gif' align='left'></td>
 <td>
 This <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> presents the analysis of an <b>A/B test</b> for sales data of a <b>110,000 customer base</b> of a retail store.<br><br>
 
