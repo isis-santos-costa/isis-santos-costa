@@ -62,6 +62,27 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
 ](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)__ 
 
+<div id="user-content-toc"><ul><summary><h5 style="display: inline-block;"> 
+     📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery'>
+      Growth marketing analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>A/B Testing and Department Growth • May 2023</i>
+      &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/Looker-Studio.png'   height=26 alt='Looker Studio'   valign='middle'></img>
+     </a><br><br>
+     📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery'>
+      Seasonality as a growth lever &nbsp; ⇒ &nbsp; <i>Balancing a two-sided marketplace • May 2023</i>
+      &nbsp;
+      &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=26 alt='Google Sheets'   valign='middle'></img>
+     </a><br><br>
+     📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery'>
+      Kaggle data into BigQuery &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Loading and troubleshooting • May 2023</i>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
+     </a><
+</h5></summary></ul></div>
+
 ___
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
