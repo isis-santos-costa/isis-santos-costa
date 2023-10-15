@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  
 📌 __[Growth marketing analysis
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp; *A/B Testing and Department Growth • 2023* 
+ ⇒ &nbsp; *A/B Testing and Department Growth • May 2023* 
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
 &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
 &nbsp;&nbsp;<img src='img/Looker-Studio.png'   height=26 alt='Looker Studio'   valign='middle'></img>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 📌 __[Seasonality as a growth lever
  &nbsp;
- ⇒ &nbsp; *Balancing a two-sided marketplace • 2023*
+ ⇒ &nbsp; *Balancing a two-sided marketplace • May 2023*
 &nbsp;
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
 &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 📌 __[Kaggle data into BigQuery
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ⇒ &nbsp; *Loading and troubleshooting • 2023*
+ ⇒ &nbsp; *Loading and troubleshooting • May 2023*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
 ](https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery)__ 
@@ -72,37 +72,6 @@ ___
 <!-- growth-marketing -->
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
-     📍 <a href='https://github.com/isis-santos-costa/growth-marketing/'>
- <i>Growth marketing analysis</i> &nbsp;
-&nbsp;&nbsp;<img src='img/Looker-Studio.png'    height=36 alt='Looker Studio'   valign='middle'></img>
-&nbsp;&nbsp;<img src='img/Google-BigQuery.png'  height=36 alt='Google BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='img/SQL.png'              height=36 alt='SQL'             valign='middle'></img>
-     </a></h3></summary>
-</ul></div>
-
-<table><tr>
-<td><img src='img/department-growth.gif' width=530 align='left'></td>
-<td>
-This <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> presents the analysis of an <b>A/B test</b> for sales data of a <b>110,000 customer base</b> of a retail store.<br><br>
-
-<b>Departmental growth</b> is also analyzed, summarizing <b>8,234</b> sales transactions to 
-> (i) display the <b>department ranking</b> in terms of growth, year-over-year (YoY),  
-> (ii) <b>reveal large-scale shifts in purchasing habits</b> of subsets of customers, and  
-> (iii) <b>unveil overall trends across departments</b>, to be mitigated and to be boosted, for <b>future sales growth</b>.
-
-<br>Tags: `growth`, `analytics`, `ab-testing`
-</td>
-</tr></table>
-
-[↑](#portfolio)
-
-___
-
-<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
-<!-- Featured # 2 --> 
-<!-- when-riders-meet-drivers -->
-
-<div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
      📍 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
  <i>Seasonality as a growth lever for two-sided marketplaces</i> &nbsp;
 &nbsp;&nbsp;<img src='img/Google-Sheets.png'    height=36 alt='Google Sheets'   valign='middle'></img>
@@ -112,7 +81,7 @@ ___
 </ul></div>
 
 <img src='img/department-growth.gif' width=530 align='left'>
-<img width=1 height=397 align='left'>
+<img width=1 height=397 align='left'> <!-- As the padding around a gif is zero, this 'zero width' image was added to let the text breath -->
 
 **A/B testing** and **departmental growth**.  <br>  
 
