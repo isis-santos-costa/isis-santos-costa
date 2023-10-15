@@ -68,11 +68,11 @@ ___
 <!-- growth-marketing -->
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
-     📍 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
- <i>Seasonality as a growth lever for two-sided marketplaces</i> &nbsp;
-&nbsp;&nbsp;<img src='img/Google-Sheets.png'    height=36 alt='Google Sheets'   valign='middle'></img>
-&nbsp;&nbsp;<img src='img/Google-BigQuery.png'  height=36 alt='Google BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='img/SQL.png'              height=36 alt='SQL'             valign='middle'></img>
+     📍 <a href='https://github.com/isis-santos-costa/growth-marketing/'>
+ <i>Growth marketing analysis</i> &nbsp;
+&nbsp;&nbsp;<img src='img/Looker-Studio.png'   height=36 alt='Looker Studio'   valign='middle'></img>
+&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
+&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
      </a></h3></summary>
 </ul></div>
 
@@ -103,9 +103,9 @@ ___
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
      📍 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
  <i>Seasonality as a growth lever for two-sided marketplaces</i> &nbsp;
-&nbsp;&nbsp;<img src='img/Google-Sheets.png'    height=36 alt='Google Sheets'   valign='middle'></img>
-&nbsp;&nbsp;<img src='img/Google-BigQuery.png'  height=36 alt='Google BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='img/SQL.png'              height=36 alt='SQL'             valign='middle'></img>
+&nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=36 alt='Google Sheets'   valign='middle'></img>
+&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
+&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
      </a></h3></summary>
 </ul></div>
 
