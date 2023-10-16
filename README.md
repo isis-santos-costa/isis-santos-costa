@@ -1,14 +1,4 @@
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MQXEEL3QMV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-MQXEEL3QMV');
-</script>
-<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--
 **IsisSantosCosta/IsisSantosCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
