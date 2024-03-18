@@ -109,7 +109,8 @@ ___
      </a></h3></summary>
 </ul></div>
 
-<img src="https://github.com/isis-santos-costa/isis-santos-costa/assets/58894233/e72eb787-3599-416e-8aab-abf37e775fc3" width=360 align='left'>
+<img src="https://github.com/isis-santos-costa/isis-santos-costa/assets/58894233/0f0291ad-678f-4691-af00-4a7caf108eef" width=360 align='left'>
+
 Carving out <b>predictability</b>.  <br><br>  
    
 This [repository](https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md) uses **seasonal patterns** as a tool in identifying areas of **what can be predicted** within certain ranges. It is part of a study on **marketplaces**. Focusing on the issue of **timeliness**, a framework of analysis is proposed, designed to bring to light the points of match and contrast in the typical daily and weekly schedules of supply and demand.  
