@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <!-- ![profile views](https://komarev.com/ghpvc/?username=isis-santos-costa&label=profile+views&color=aaaaaa) -->
 <!-- [![commit activity](https://img.shields.io/github/commit-activity/m/isis-santos-costa/when-riders-meet-drivers?label=commit%20activity%20%28portfolio%29)](https://github.com/isis-santos-costa/when-riders-meet-drivers/) -->
 
-[![stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/7865030?color=brightgreen)](https://stackoverflow.com/users/7865030/isis-santos-costa/)
+<!-- [![stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/7865030?color=brightgreen)](https://stackoverflow.com/users/7865030/isis-santos-costa/) -->
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7865030?style=flat&logo=stackoverflow&label=Stack%20Overflow%20%E2%80%A2%20Reputation&color=brightgreen)](https://stackoverflow.com/users/7865030/%c3%8dsis-santos-costa?tab=answers&sort=votes) <!-- https://shields.io/badges/stack-exchange-reputation -->
+[![LeetCode user isis-santos-costa](https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=LeetCode%20%E2%80%A2%20Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fisis-santos-costa&logo=leetcode&logoColor=yellow)](https://leetcode.com/isis-santos-costa/) <!-- https://leetcard.jacoblin.cool/ -->
 <!-- [![product analytics certified](https://img.shields.io/badge/product%20analytics%20certified-%F0%9F%8E%93-fff)](https://www.credly.com/badges/04d9aa52-5b65-41e3-8fa3-ba34cf279790) -->
 <!-- [![Data Analyst](https://img.shields.io/badge/%20data%20analyst-%E2%98%95-purple)](https://www.linkedin.com/in/isis-santos-costa/)   -->
 
