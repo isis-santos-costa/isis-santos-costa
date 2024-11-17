@@ -40,21 +40,27 @@ Here are some ideas to get you started:
 # Portfolio  
  
 <div id="user-content-toc"><ul><summary><h4 style="display: inline-block;"> 
+     📌 <a href='https://github.com/isis-santos-costa/the-world-bank-global-health/blob/main/global-overweight-undernourishment.ipynb'>
+      The World Bank: Global Health &nbsp;⇒ &nbsp; <i>Forecasting, Time Series Analysis • Nov 2024</i>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/python.png'          height=36 alt='Python'          valign='middle'></img>
+     </a><br><br>
      📌 <a href='https://github.com/isis-santos-costa/growth-marketing/'>
-      Growth marketing analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>A/B Testing and Department Growth • May 2023</i>
+      Growth marketing analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>A/B Testing and Department Growth • May 2023</i>
       &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
       &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
       &nbsp;&nbsp;<img src='img/Looker-Studio.png'   height=26 alt='Looker Studio'   valign='middle'></img>
      </a><br><br>
      📌 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
-      Seasonality as a growth lever &nbsp; ⇒ &nbsp; <i>Balancing a two-sided marketplace • May 2023</i>
+      Seasonality as a growth lever &nbsp;&nbsp; ⇒ &nbsp; <i>Balancing a two-sided marketplace • May 2023</i>
       &nbsp;
       &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
       &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
       &nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=26 alt='Google Sheets'   valign='middle'></img>
      </a><br><br>
      📌 <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery/'>
-      Kaggle data into BigQuery &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Loading and troubleshooting • May 2023</i>
+      Kaggle data into BigQuery &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Loading and troubleshooting • May 2023</i>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
      </a>
@@ -67,6 +73,34 @@ ___
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- Featured # 1 --> 
+<!-- the-world-bank-global-health -->
+
+<div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
+     📍 <a href='https://github.com/isis-santos-costa/the-world-bank-global-health/blob/main/global-overweight-undernourishment.ipynb'>
+ <i>The World Bank: Global Health | Nutrition</i> &nbsp;
+&nbsp;&nbsp;<img src='img/python.png'          height=56 alt='Python'          valign='middle'></img>
+&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
+&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
+     </a></h3></summary>
+</ul></div>
+
+<img src='img/global-overweight-undernourishment.gif' width=650 align='left'>
+<img width=1 height=397 align='left'> <!-- As the padding around a gif is zero, this 'zero width' image was added to let the text breath -->
+
+**What are some universal silent factors that may be hindering longevity globally?**.  <br><br>  
+
+Driven by this question, data from Google BigQuery public dataset **« The World Bank: Global Health »** is extracted and explored in this <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> to show trends and a forecasting interval on the double-sided burden of malnutrition that **overweight** and **undernourishment** place on public health.
+
+<br>Tags: `public-health`, `time-series-analysis`, `forecasting`  
+
+<br><br>
+
+[↑](#portfolio)
+
+___
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- Featured # 2 --> 
 <!-- growth-marketing -->
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
@@ -99,7 +133,7 @@ This <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository
 ___
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
-<!-- Featured # 2 --> 
+<!-- Featured # 3 --> 
 <!-- when-riders-meet-drivers -->
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
