@@ -84,14 +84,14 @@ ___
      </a></h3></summary>
 </ul></div>
 
-<img src='img/global-overweight-undernourishment.gif' width=650 align='left'>
+<img src='img/global-overweight-undernourishment.gif' width=610 align='left'>
 <img width=1 height=397 align='left'> <!-- As the padding around a gif is zero, this 'zero width' image was added to let the text breath -->
 
 **What are some universal silent factors that may be hindering longevity globally?**.  <br><br>  
 
 Driven by this question, data from Google BigQuery public dataset **« The World Bank: Global Health »** is extracted and explored in this <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> to show trends and a forecasting interval on the double-sided burden of malnutrition that **overweight** and **undernourishment** place on public health.
 
-<br>Tags: `public-health`, `time-series-analysis`, `forecasting`  
+<br>Tags: `public-health`, `time-series-analysis`  
 
 <br><br>
 
