@@ -78,16 +78,16 @@ ___
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
      📍 <a href='https://github.com/isis-santos-costa/the-world-bank-global-health/blob/main/global-overweight-undernourishment.ipynb'>
  <i>The World Bank: Global Health | Nutrition</i> &nbsp;
-&nbsp;&nbsp;<img src='img/python.png'          height=56 alt='Python'          valign='middle'></img>
+&nbsp;&nbsp;<br>
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
+&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img> &nbsp;&nbsp;<img src='img/python.png'          height=56 alt='Python'          valign='middle'></img>
      </a></h3></summary>
 </ul></div>
 
 <img src='img/global-overweight-undernourishment.gif' width=610 align='left'>
 <img width=1 height=397 align='left'> <!-- As the padding around a gif is zero, this 'zero width' image was added to let the text breath -->
 
-**What are some universal silent factors that may be hindering longevity globally?**.  <br><br>  
+**What are some universal silent factors that may be hindering longevity globally?**  <br><br>  
 
 Driven by this question, data from Google BigQuery public dataset **« The World Bank: Global Health »** is extracted and explored in this <a href='https://github.com/isis-santos-costa/growth-marketing/'>repository</a> to show trends and a forecasting interval on the double-sided burden of malnutrition that **overweight** and **undernourishment** place on public health.
 
@@ -105,10 +105,9 @@ ___
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
      📍 <a href='https://github.com/isis-santos-costa/growth-marketing/'>
- <i>Growth marketing analysis</i> &nbsp;
-&nbsp;&nbsp;<img src='img/Looker-Studio.png'   height=36 alt='Looker Studio'   valign='middle'></img>
-&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
+ <i>Growth marketing analysis</i> <br>
+<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>&nbsp;
+<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>&nbsp;&nbsp;<img src='img/Looker-Studio.png'   height=36 alt='Looker Studio'   valign='middle'></img>
      </a></h3></summary>
 </ul></div>
 
@@ -138,10 +137,9 @@ ___
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
      📍 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
- <i>Seasonality as a growth lever for two-sided marketplaces</i> &nbsp;
-&nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=36 alt='Google Sheets'   valign='middle'></img>
+ <i>Seasonality as a growth lever for two-sided marketplaces</i> <br>
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
+&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>&nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=36 alt='Google Sheets'   valign='middle'></img>
      </a></h3></summary>
 </ul></div>
 
