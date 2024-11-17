@@ -77,10 +77,10 @@ ___
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
      📍 <a href='https://github.com/isis-santos-costa/the-world-bank-global-health/blob/main/global-overweight-undernourishment.ipynb'>
- <i>The World Bank: Global Health | Nutrition</i> &nbsp;
-&nbsp;&nbsp;<br>
-&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img> &nbsp;&nbsp;<img src='img/python.png'          height=56 alt='Python'          valign='middle'></img>
+ <i>The World Bank: Global Health | Nutrition</i> 
+      &nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
+&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
+&nbsp;&nbsp;<img src='img/python.png'          height=56 alt='Python'          valign='middle'></img>
      </a></h3></summary>
 </ul></div>
 
@@ -105,9 +105,10 @@ ___
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
      📍 <a href='https://github.com/isis-santos-costa/growth-marketing/'>
- <i>Growth marketing analysis</i> <br>
-<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>&nbsp;
-<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>&nbsp;&nbsp;<img src='img/Looker-Studio.png'   height=36 alt='Looker Studio'   valign='middle'></img>
+ <i>Growth marketing analysis</i> 
+      &nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
+&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
+&nbsp;&nbsp;<img src='img/Looker-Studio.png'   height=36 alt='Looker Studio'   valign='middle'></img>
      </a></h3></summary>
 </ul></div>
 
@@ -137,9 +138,10 @@ ___
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
      📍 <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
- <i>Seasonality as a growth lever for two-sided marketplaces</i> <br>
+ <i>Seasonality as a growth lever for two-sided marketplaces</i>
 &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
-&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>&nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=36 alt='Google Sheets'   valign='middle'></img>
+&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'>
+&nbsp;&nbsp;</img>&nbsp;&nbsp;<img src='img/Google-Sheets.png'   height=36 alt='Google Sheets'   valign='middle'></img>
      </a></h3></summary>
 </ul></div>
 
