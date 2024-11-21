@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 # Portfolio  
  
 <div id="user-content-toc"><ul><summary><h4 style="display: inline-block;"> 
-     📌 <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/'>
+     📌 <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>
       The World Bank: Global Health &nbsp;⇒ &nbsp; <i>Forecasting, Time Series Analysis • Nov 2024</i>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
       &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
@@ -76,7 +76,7 @@ ___
 <!-- the-world-bank-global-health -->
 
 <div id="user-content-toc"><ul><summary><h3 style="display: inline-block;"> 
-     📍 <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/'>
+     📍 <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>
  <i>The World Bank: Global Health | Nutrition</i> 
       &nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
 &nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
@@ -89,7 +89,7 @@ ___
 
 **What are some universal silent factors that may be hindering longevity globally?**  <br><br>  
 
-Driven by this question, data from Google BigQuery public dataset **« The World Bank: Global Health »** is extracted and explored in this <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/'>analysis</a> to show trends and a forecasting interval on the double-sided burden of malnutrition that **overweight** and **undernourishment** place on public health.
+Driven by this question, data from Google BigQuery public dataset **« The World Bank: Global Health »** is extracted and explored in this <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>analysis</a> to show trends and a forecasting interval on the double-sided burden of malnutrition that **overweight** and **undernourishment** place on public health.
 
 <br>Tags: `public-health`, `time-series-analysis`  
 
