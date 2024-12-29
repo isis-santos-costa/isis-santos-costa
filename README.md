@@ -84,6 +84,8 @@ ___
       &nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
 &nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
 &nbsp;&nbsp;<img src='img/python.png'          height=56 alt='Python'          valign='middle'></img>
+&nbsp;&nbsp;<img src='img/kaggle.png'          height=36 alt='Kaggle'          valign='middle'></img>
+&nbsp;&nbsp;( on Kaggle )
      </a></h3></summary>
 </ul></div>
 
