@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <!-- [![product analytics certified](https://img.shields.io/badge/product%20analytics%20certified-%F0%9F%8E%93-fff)](https://www.credly.com/badges/04d9aa52-5b65-41e3-8fa3-ba34cf279790) -->
 <!-- [![Data Analyst](https://img.shields.io/badge/%20data%20analyst-%E2%98%95-purple)](https://www.linkedin.com/in/isis-santos-costa/)   -->
 
+
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- Hi --> 
 <!-- ```  
@@ -43,8 +44,10 @@ Here are some ideas to get you started:
      📌 <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>
       The World Bank: Global Health &nbsp;⇒ &nbsp; <i>Forecasting, Time Series Analysis • Nov 2024</i>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
-      &nbsp;&nbsp;<img src='img/SQL.png'             height=26 alt='SQL'             valign='middle'></img>
-      &nbsp;&nbsp;<img src='img/python.png'          height=36 alt='Python'          valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/SQL.png'                                          height=26 alt='SQL'             valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/python.png'                                       height=36 alt='Python'          valign='middle'></img>
+                  <img src='img/kaggle.png'                                       height=36 alt='Kaggle'          valign='middle'></img>
+      ( on Kaggle )
      </a><br><br>
      📌 <a href='https://github.com/isis-santos-costa/growth-marketing/'>
       Growth marketing analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>A/B Testing and Department Growth • May 2023</i>
