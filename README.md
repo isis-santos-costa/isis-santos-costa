@@ -69,7 +69,7 @@ Here are some ideas to get you started:
      </a><br><br>
      ⚙️ <a href='https://www.kaggle.com/code/isissantoscosta/create-database-from-sql-file-sqlite/' target='_blank'>
       Utils | Create database from .sql file • SQLite • May 2025
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='sqlite.png'              height=36 alt='SQLite'           valign='middle'></img>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='img/sqlite.png'          height=26 alt='SQLite'           valign='middle'></img>
       &nbsp;&nbsp;<img src='img/SQL.png'                                           height=26 alt='SQL'              valign='middle'></img>
       &nbsp;&nbsp;<img src='img/python.png'                                        height=36 alt='Python'           valign='middle'></img>
                   <img src='img/kaggle.png'                                        height=26 alt='Kaggle'           valign='middle'></img>
