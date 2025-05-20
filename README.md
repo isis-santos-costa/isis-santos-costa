@@ -44,9 +44,9 @@ Here are some ideas to get you started:
      📌 <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>
       The World Bank: Global Health &nbsp;⇒ &nbsp; <i>Forecasting, Time Series Analysis • Nov 2024</i>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
-      &nbsp;&nbsp;<img src='img/SQL.png'                                          height=26 alt='SQL'             valign='middle'></img>
-      &nbsp;&nbsp;<img src='img/python.png'                                       height=36 alt='Python'          valign='middle'></img>
-                  <img src='img/kaggle.png'                                       height=36 alt='Kaggle'          valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/SQL.png'                                           height=26 alt='SQL'             valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/python.png'                                        height=36 alt='Python'          valign='middle'></img>
+                  <img src='img/kaggle.png'                                        height=36 alt='Kaggle'          valign='middle'></img>
       ( on Kaggle )
      </a><br><br>
      📌 <a href='https://github.com/isis-santos-costa/growth-marketing/'>
@@ -66,7 +66,22 @@ Here are some ideas to get you started:
       Kaggle data into BigQuery &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Loading and troubleshooting • May 2023</i>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
-     </a>
+     </a><br><br>
+     ⚙️ <a href='https://www.kaggle.com/code/isissantoscosta/create-database-from-sql-file-sqlite/' target='_blank'>
+      Utils | Create database from .sql file • SQLite • May 2025
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='sqlite.png'              height=36 alt='SQLite'           valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/SQL.png'                                           height=26 alt='SQL'              valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/python.png'                                        height=36 alt='Python'           valign='middle'></img>
+                  <img src='img/kaggle.png'                                        height=26 alt='Kaggle'           valign='middle'></img>
+      ( on Kaggle )
+     </a><br><br>
+     ⚙️ <a href='https://www.kaggle.com/code/isissantoscosta/combine-csv-files/' target='_blank'>
+      Utils | Combine CSV files • May 2025
+      &nbsp;&nbsp;<img src='img/pandas.png'                                       height=26 alt='pandas'          valign='middle'></img>
+      &nbsp;&nbsp;<img src='img/python.png'                                       height=36 alt='Python'          valign='middle'></img>
+                  <img src='img/kaggle.png'                                       height=26 alt='Kaggle'          valign='middle'></img>
+      ( on Kaggle )
+     </a><br>
 </h4></summary></ul></div>
 
 ___
