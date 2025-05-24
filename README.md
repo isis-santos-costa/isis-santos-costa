@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 <!-- Portfolio --> 
 # Portfolio  
  
-<div id="user-content-toc"><ul><summary><h4 style="display: inline-block;"> 
+<div id="user-content-toc"><ul><summary><h4 style="display: inline-block;">  
+ Data Analysis<br><br>
      📌 <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>
       The World Bank: Global Health &nbsp;⇒ &nbsp; <i>Forecasting, Time Series Analysis • Nov 2024</i>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
@@ -67,6 +68,7 @@ Here are some ideas to get you started:
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;<img src='img/Google-BigQuery.png' height=26 alt='Google BigQuery' valign='middle'></img>
      </a><br><br>
+ Utilities<br><br>
      ⚙️ <a href='https://www.kaggle.com/code/isissantoscosta/create-database-from-sql-file-sqlite/' target='_blank'>
       Utils | Create database from .sql file • SQLite • May 2025
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='img/sqlite.png'          height=26 alt='SQLite'           valign='middle'></img>
