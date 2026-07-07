@@ -40,6 +40,13 @@ Here are some ideas to get you started:
 # Portfolio  
  
 <div id="user-content-toc"><ul><summary><h4 style="display: inline-block;">  
+ Analytics Engineering<br><br>
+      <a href='https://www.kaggle.com/code/isissantoscosta/divvy/dimensional-modeling-conversion-analytics.ipynb' target='_blank'>
+      🚲 Divvy・Dimensional Modeling—Conversion Analytics • Jul 2026</i>
+      &nbsp;&nbsp;<img src='img/python.png'                                        height=36 alt='Python'          valign='middle'></img>
+                  <img src='img/kaggle.png'                                        height=36 alt='Kaggle'          valign='middle'></img>
+      ( on Kaggle )
+     </a><br><br>  
  Data Analysis<br><br>
      📌 <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>
       The World Bank: Global Health &nbsp;⇒ &nbsp; <i>Forecasting, Time Series Analysis • Nov 2024</i>
