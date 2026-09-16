@@ -45,7 +45,7 @@ Here are some ideas to get you started:
       🚲 Divvy・Conversion Analytics &nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Canonicalization & Dimensional Modeling • Sep 2026</i>
       &nbsp;&nbsp;<img src='img/python.png'                                        height=36 alt='Python'          valign='middle'></img>
                   <img src='img/kaggle.png'                                        height=36 alt='Kaggle'          valign='middle'></img>
-      ( on Kaggle )
+      ( on Kaggle ) [ WIP ]
      </a><br><br>  
  Data Analysis<br><br>
      📌 <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>
