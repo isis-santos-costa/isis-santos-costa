@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  
 <div id="user-content-toc"><ul><summary><h4 style="display: inline-block;">  
  Analytics Engineering<br><br>
-      <a href='https://www.kaggle.com/code/isissantoscosta/divvy/dimensional-modeling-conversion-analytics.ipynb' target='_blank'>
+      <a href='https://www.kaggle.com/code/isissantoscosta/divvy-analytics/' target='_blank'>
       🚲 Divvy・Conversion Analytics &nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Canonicalization & Dimensional Modeling • Sep 2026</i>
       &nbsp;&nbsp;<img src='img/python.png'                                        height=36 alt='Python'          valign='middle'></img>
                   <img src='img/kaggle.png'                                        height=36 alt='Kaggle'          valign='middle'></img>
