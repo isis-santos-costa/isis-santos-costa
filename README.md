@@ -100,7 +100,7 @@ Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/is
      </a></h3>
 </div>
 
-<img width='60%' src='https://raw.githubusercontent.com/isis-santos-costa/divvy/refs/heads/main/img/canonicalization-of-stations.png' width=610 align='left'>
+<img width='55%' src='https://raw.githubusercontent.com/isis-santos-costa/divvy/refs/heads/main/img/canonicalization-of-stations.png' width=610 align='left'>
 
 **Trusted data assets: What does <i>standard</i> prep miss?**  <br><br>  
 
