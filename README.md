@@ -100,7 +100,7 @@ Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/is
      </a></h3>
 </div>
 
-**Trusted data assets: What does <i>standard</i> prep miss?**  <br>
+**Trusted data assets: What does <i>standard</i> data prep miss?**  <br>
 
 <img width='100%' 
  src='https://raw.githubusercontent.com/isis-santos-costa/divvy/refs/heads/main/img/canonicalization-of-stations.png' 
@@ -108,7 +108,7 @@ Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/is
 
 <br clear='all'><br>
 
-What looks like clean data may still require further work. Standard uniqueness assessment focuses on individual fields. In <a href='https://www.kaggle.com/code/isissantoscosta/divvy-analytics' target='_blank'>this project</a>, ensuring the uniqueness of the full set of fields identifying a station (id, name, geolocation), by what is called canonicalization, led to a **9% identity conflict resolved**, from multiple id/name/coordinates referring to the same station to a single canon. Canonicalization was performed as part of a first-principles check for CutCVA data quality dimensions (completeness, uniqueness, timeliness, consistency, accuracy, validity), in a modular pipeline. Paired with dimensional modeling, these steps prepared publicly available Chicago Bikeshare operational data for identifying an Ideal Customer Profile (ICP) among members and using it to find out casual riders with similar behavior, as assumed best candidates to become subscribers.
+What looks like clean data may still require further work. Standard uniqueness assessment focuses on individual fields. In <a href='https://www.kaggle.com/code/isissantoscosta/divvy-analytics' target='_blank'>this project</a>, ensuring the uniqueness of the full set of fields identifying a station (id, name, geolocation), by what is called canonicalization, led to a **9% identity conflict resolved**, from multiple id/name/coordinates referring to the same station to a single canon. Canonicalization was performed as part of a first-principles check for CutCVA data quality dimensions (completeness, uniqueness, timeliness, consistency, accuracy, validity), in a modular pipeline. Combined with dimensional modeling, these steps prepared public Chicago Bikeshare data for analytics. The data were then used in identifying an Ideal Customer Profile (ICP) from subscribers and using it to find subscriber-like casual riders as prime candidates for subscription.
 
 <br>Tags: `analytics-engineering`, `data-quality`, `canonicalization`, `modular-design`, `dimensional-modeling`  
 
