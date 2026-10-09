@@ -95,24 +95,19 @@ Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/is
 <!-- the-world-bank-global-health -->
 
 <div><h3>
-     📌 <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>
- <i>The World Bank: Global Health | Nutrition</i> 
-      &nbsp;<img src='img/Google-BigQuery.png' height=36 alt='Google BigQuery' valign='middle'></img>
-&nbsp;&nbsp;<img src='img/SQL.png'             height=36 alt='SQL'             valign='middle'></img>
-&nbsp;&nbsp;<img src='img/python.png'          height=56 alt='Python'          valign='middle'></img>
-&nbsp;&nbsp;<img src='img/kaggle.png'          height=36 alt='Kaggle'          valign='middle'></img>
-&nbsp;&nbsp;( on Kaggle )
+     📌 <a href='https://www.kaggle.com/code/isissantoscosta/divvy-analytics' target='_blank'>
+ <i>🚴‍♀️ Divvy・Analytics</i> 
      </a></h3>
 </div>
 
-<img src='img/global-overweight-undernourishment.gif' width=610 align='left'>
+<img src='https://raw.githubusercontent.com/isis-santos-costa/divvy/refs/heads/main/img/canonicalization-of-stations.png' width=610 align='left'>
 <img width=1 height=397 align='left'> <!-- As the padding around a gif is zero, this 'zero width' image was added to let the text breath -->
 
-**What are some universal silent factors that may be hindering longevity globally?**  <br><br>  
+**Trusted data assets: What does <i>standard</i> prep miss?**  <br><br>  
 
-Driven by this question, data from Google BigQuery public dataset **« The World Bank: Global Health »** is extracted and explored in this <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>analysis</a> to show trends and a forecasting interval on the double-sided burden of malnutrition that **overweight** and **undernourishment** place on public health.
+What looks like clean data may still require further work. Standard uniqueness assessment focuses on individual fields. In <a href='https://www.kaggle.com/code/isissantoscosta/divvy-analytics' target='_blank'>this project</a>, ensuring the uniqueness of the full set of fields identifying a station (id, name, geolocation), by what is called canonicalization, led to a **9% identity conflict resolved**, from multiple id/name/coordinates referring to the same station to a single canon. Canonicalization was performed as part of a first-principles check for CutCVA data quality dimensions (completeness, uniqueness, timeliness, consistency, accuracy, validity), in a modular pipeline. Paired with dimensional modeling, these steps prepared publicly available Chicago Bikeshare operational data for identifying an Ideal Customer Profile (ICP) among members and using it to find out casual riders with similar behavior, as assumed best candidates to become subscribers.
 
-<br>Tags: `public-health`, `time-series-analysis`  
+<br>Tags: `analytics-engineering`, `data-quality`, `canonicalization`, `modular-design`, `dimensional-modeling`  
 
 <br>
 
@@ -121,6 +116,4 @@ Driven by this question, data from Google BigQuery public dataset **« The World
 ___
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
-
-
 
