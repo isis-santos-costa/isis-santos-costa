@@ -100,8 +100,7 @@ Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/is
      </a></h3>
 </div>
 
-<img src='https://raw.githubusercontent.com/isis-santos-costa/divvy/refs/heads/main/img/canonicalization-of-stations.png' width=610 align='left'>
-<img width=1 height=397 align='left'> <!-- As the padding around a gif is zero, this 'zero width' image was added to let the text breath -->
+<img width='60%' src='https://raw.githubusercontent.com/isis-santos-costa/divvy/refs/heads/main/img/canonicalization-of-stations.png' width=610 align='left'>
 
 **Trusted data assets: What does <i>standard</i> prep miss?**  <br><br>  
 
