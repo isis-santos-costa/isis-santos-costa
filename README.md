@@ -103,7 +103,7 @@ Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/is
 **Trusted data assets: What does <i>standard</i> data prep miss?**  <br>
 
 <img width='100%' 
- src='https://raw.githubusercontent.com/isis-santos-costa/divvy/refs/heads/main/img/canonicalization-of-stations.png' 
+ src='https://raw.githubusercontent.com/isis-santos-costa/divvy/refs/heads/main/img/divvy-analytics-engineering.gif' 
  align='left' style='margin-bottom: 1000px;'>
 
 <br clear='all'><br>
