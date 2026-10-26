@@ -37,55 +37,50 @@ Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/is
  
 <div>  
  <br>
- Analytics Engineering
+ <h3><b>Analytics Engineering</b></h3>
       <ul>
        <li><a href='https://www.kaggle.com/code/isissantoscosta/divvy-analytics/' target='_blank'>
-      🚲 Divvy・Analytics</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        ⇒ &nbsp; <i>Canonicalization, DQ, Modular Design • Sep 2026</i>
-      &nbsp; | &nbsp;&nbsp; First-principles ・ pure Python &nbsp; ( on Kaggle )
+      AE | Divvy・Analytics</a>
+      &nbsp; ⇒ &nbsp; <i>Data Quality, Canonicalization, Modular Design</i> ・ Sep 2026
+      &nbsp; | &nbsp;&nbsp; First-principles ・ Python
       </li>
-     <li> <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery/'>
-      Kaggle data into BigQuery</a> &nbsp;&nbsp; ⇒ &nbsp; <i>Loading and troubleshooting • May 2023</i>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp; | &nbsp;&nbsp; BigQuery
-     </li>
      </ul><br>
- Data Analysis
+ <h3><b>Data Analysis</b></h3>
      <ul style="margin: -10; padding: 0;">
       <li> <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>
-      The World Bank: Global Health</a> &nbsp;⇒ &nbsp; <i>Forecasting, Time Series Analysis • Nov 2024</i>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp; BigQuery ・ SQL ・ Python &nbsp; ( on Kaggle )
+      DA | The World Bank: Global Health</a> &nbsp; ⇒ &nbsp; <i>Forecasting</i> ・ Nov 2024
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp; | &nbsp;&nbsp; BigQuery ・ SQL ・ Python
      </li>
      <li> <a href='https://github.com/isis-santos-costa/growth-marketing/'>
-      Growth marketing analysis</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>A/B Testing and Department Growth • May 2023</i>
+      DA | Growth marketing analysis</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Growth Analytics</i> ・ May 2023
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp; | &nbsp;&nbsp; BigQuery ・ SQL ・ Looker Studio
      </li>
      <li> <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
-      Seasonality as a growth lever</a> &nbsp;&nbsp; ⇒ &nbsp; <i>Balancing a two-sided marketplace • May 2023</i>
-      &nbsp;&nbsp;
+      DA | Seasonality as a growth lever</a> &nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Two-sided marketplace</i> ・ May 2023
       &nbsp;&nbsp; | &nbsp;&nbsp; BigQuery ・ SQL ・ Google Sheets
      </li>
      </ul><br>
- Utilities
+ <h3><b>Utilities</b></h3>
      <ul>
-      <li> <a href='https://www.kaggle.com/code/isissantoscosta/create-database-from-sql-file-sqlite/' target='_blank'>
-      Utils | Executive-grade UI for notebooks</a> • Sep 2026
-      &nbsp;&nbsp;
-        | &nbsp;&nbsp; Python &nbsp; ( on Kaggle )
+      <li> <a href='https://www.kaggle.com/code/isissantoscosta/awesome-ui' target='_blank'>
+      Utils | Convenient UI for notebooks</a> ・ Sep 2026 &nbsp;&nbsp; | &nbsp;&nbsp; Python
      </li>
       <li> <a href='https://www.kaggle.com/code/isissantoscosta/create-database-from-sql-file-sqlite/' target='_blank'>
-      Utils | Create database from .sql file</a> • May 2025
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        | &nbsp;&nbsp; SQLite ・ SQL ・ Python &nbsp; ( on Kaggle )
+      Utils | Create database from .sql file</a> ・ May 2025 &nbsp; | &nbsp;&nbsp; SQLite ・ SQL ・ Python
      </li>
      <li> <a href='https://www.kaggle.com/code/isissantoscosta/combine-csv-files/' target='_blank'>
-      Utils | Combine CSV files</a> • May 2025
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        | &nbsp;&nbsp; Python ・ pandas &nbsp; ( on Kaggle )
+      Utils | Combine CSV files</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ・ May 2025 &nbsp; | &nbsp;&nbsp; Python ・ pandas
+     </li>
+     <li> <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery/'>
+      Utils | Kaggle data into BigQuery</a> &nbsp;&nbsp;&nbsp; ・ May 2023 &nbsp; | &nbsp;&nbsp; BigQuery
      </li>
      </ul>
 </div>
+
+<br>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 # Featured
