@@ -40,7 +40,7 @@ Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/is
  <h3><b>Analytics Engineering</b></h3>
       <ul>
        <li><a href='https://www.kaggle.com/code/isissantoscosta/divvy-analytics/' target='_blank'>
-      AE | Divvy・Analytics</a>
+      Divvy・Analytics</a>
       &nbsp; ⇒ &nbsp; <i>Data Quality, Canonicalization, Modular Design</i> ・ Sep 2026
       &nbsp; | &nbsp;&nbsp; First-principles ・ Python
       </li>
@@ -48,17 +48,17 @@ Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/is
  <h3><b>Data Analysis</b></h3>
      <ul style="margin: -10; padding: 0;">
       <li> <a href='https://www.kaggle.com/code/isissantoscosta/time-series-the-world-bank-global-health/' target='_blank'>
-      DA | The World Bank: Global Health</a> &nbsp; ⇒ &nbsp; <i>Forecasting</i> ・ Nov 2024
+      The World Bank: Global Health</a> &nbsp; ⇒ &nbsp; <i>Forecasting</i> ・ Nov 2024
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp; | &nbsp;&nbsp; BigQuery ・ SQL ・ Python
      </li>
      <li> <a href='https://github.com/isis-santos-costa/growth-marketing/'>
-      DA | Growth marketing analysis</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Growth Analytics</i> ・ May 2023
+      Growth marketing analysis</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Growth Analytics</i> ・ May 2023
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp; | &nbsp;&nbsp; BigQuery ・ SQL ・ Looker Studio
      </li>
      <li> <a href='https://github.com/isis-santos-costa/when-riders-meet-drivers/blob/main/data-analysis.md'>
-      DA | Seasonality as a growth lever</a> &nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Two-sided marketplace</i> ・ May 2023
+      Seasonality as a growth lever</a> &nbsp;&nbsp;&nbsp; ⇒ &nbsp; <i>Two-sided marketplace</i> ・ May 2023
       &nbsp;&nbsp; | &nbsp;&nbsp; BigQuery ・ SQL ・ Google Sheets
      </li>
      </ul><br>
@@ -72,10 +72,10 @@ Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/is
      </li>
      <li> <a href='https://www.kaggle.com/code/isissantoscosta/combine-csv-files/' target='_blank'>
       Utils | Combine CSV files</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ・ May 2025 &nbsp; | &nbsp;&nbsp; Python ・ pandas
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ・ May 2025 &nbsp; | &nbsp;&nbsp; Python ・ pandas
      </li>
      <li> <a href='https://github.com/isis-santos-costa/kaggle-datasets-in-bigquery/'>
-      Utils | Kaggle data into BigQuery</a> &nbsp;&nbsp;&nbsp; ・ May 2023 &nbsp; | &nbsp;&nbsp; BigQuery
+      Utils | Kaggle data into BigQuery</a> &nbsp;&nbsp;&nbsp;&nbsp; ・ May 2023 &nbsp; | &nbsp;&nbsp; BigQuery
      </li>
      </ul>
 </div>
