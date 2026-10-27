@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- Hi --> 
 
-Analytics Engineer • Trusted data assets [🔗](https://www.linkedin.com/in/isis-santos-costa/)
+<b>Analytics Engineer</b> [🔗](https://www.linkedin.com/in/isis-santos-costa/)
+
+Interested in  
+↳ Data Quality  
+↳ Modular Architecture  
+↳ Dimensional Modeling  
 
 <!-- ```  
 
