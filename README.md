@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 Interested in  
 ↳ Data Quality  
-↳ Modular Architecture  
 ↳ Dimensional Modeling  
+↳ Modular Design  
 
 <!-- ```  
 
