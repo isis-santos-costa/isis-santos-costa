@@ -1,8 +1,13 @@
 # identity.py ---------------------------------------------------------------------------------------------
 
 # --- config ---
-TRACKS = {'a': 'First principles, from scratch', 'b': 'Enterprise-grade, off the shelf'}
-IX = dict(bg='#EAF0F7', fg='#14233B', muted='#4A5B75', head_bg='#D5DEEA', head_fg='#14233B', line='#C3CEDC', link='#1D4ED8')
+TRACKS = {
+      'a': 'First principles, from scratch'
+    , 'b': 'Enterprise-grade, off the shelf'
+}
+IX = dict(
+    bg='#EAF0F7', fg='#14233B', muted='#4A5B75', head_bg='#D5DEEA', head_fg='#14233B', line='#C3CEDC', link='#1D4ED8'
+)
 
 # --- libraries ---
 from IPython.display  import HTML
@@ -16,7 +21,6 @@ def make_cell_id(track, kind, module, task):
 FONT = "system-ui,-apple-system,'Segoe UI',sans-serif"
 
 THEMES = { # Track A, Track B, Neutral
-          line='#C3CEDC', outer='#C3CEDC', shadow='0 1px 3px rgba(15,23,42,.10)'),
     'a': dict(head_bg='#EEF2F7', head_fg='#475569', rule='#64748B',
               body_bg='#F8FAFC', body_fg='#1E293B', zebra='#F1F5F9', hover='#E2E8F0',
               ban_fg ='#1E293B', ban_sub='#475569', ban_line='#CBD5E1',
@@ -34,6 +38,7 @@ THEMES = { # Track A, Track B, Neutral
           ban_fg ='#14233B', ban_sub='#4A5B75', ban_line='#C3CEDC',
           bar    ='linear-gradient(180deg,#6B7C95,#14233B)',
           ban_bg ='linear-gradient(135deg,#EAF0F7 0%,#DDE5F0 100%)',
+          line='#C3CEDC', outer='#C3CEDC', shadow='0 1px 3px rgba(15,23,42,.10)'),
 }
 
 TRACK_CSS = '<style>' + ''.join(
