@@ -15,7 +15,8 @@ def make_cell_id(track, kind, module, task):
 
 FONT = "system-ui,-apple-system,'Segoe UI',sans-serif"
 
-THEMES = {
+THEMES = { # Track A, Track B, Neutral
+          line='#C3CEDC', outer='#C3CEDC', shadow='0 1px 3px rgba(15,23,42,.10)'),
     'a': dict(head_bg='#EEF2F7', head_fg='#475569', rule='#64748B',
               body_bg='#F8FAFC', body_fg='#1E293B', zebra='#F1F5F9', hover='#E2E8F0',
               ban_fg ='#1E293B', ban_sub='#475569', ban_line='#CBD5E1',
@@ -28,6 +29,11 @@ THEMES = {
               bar    ='linear-gradient(180deg,#E4C77B 0%,#C8A24A 50%,#8F6F2A 100%)', 
               ban_bg='linear-gradient(135deg,#0B1B33 0%,#07142A 100%)',
               line='#1E3354',    outer='#1E3354',   shadow='0 4px 10px rgba(3,10,25,.35)'),
+    'n': dict(head_bg='#D5DEEA', head_fg='#14233B', rule='#4A5B75',
+          body_bg='#EAF0F7', body_fg='#14233B', zebra='#E1E8F2', hover='#D5DEEA',
+          ban_fg ='#14233B', ban_sub='#4A5B75', ban_line='#C3CEDC',
+          bar    ='linear-gradient(180deg,#6B7C95,#14233B)',
+          ban_bg ='linear-gradient(135deg,#EAF0F7 0%,#DDE5F0 100%)',
 }
 
 TRACK_CSS = '<style>' + ''.join(
@@ -36,13 +42,13 @@ TRACK_CSS = '<style>' + ''.join(
     f"--bt:{t['ban_fg']};--bs:{t['ban_sub']};--bl:{t['ban_line']};--bsh:{t['shadow']}}}"
     for k, t in THEMES.items()
 ) + """
-:is(.t-a,.t-b) :is(h1,h2,h3,h4,h5,h6){color:var(--hfg)!important}
-:is(.t-a,.t-b) :is(code,pre){background:var(--cd)!important;color:var(--fg)!important;border:1px solid var(--ln);border-radius:4px}
-:is(.t-a,.t-b) code{padding:.1em .35em;font-size:.92em}
-:is(.t-a,.t-b) pre{padding:10px 12px;overflow:auto}
-:is(.t-a,.t-b) pre code{background:none!important;border:0;padding:0}
-:is(.t-a,.t-b) pre code *{color:inherit!important}
-:is(.t-a,.t-b).card{background:var(--bg);color:var(--fg);border:1px solid var(--ln);border-radius:8px;
+:is(.t-a,.t-b,.t-n) :is(h1,h2,h3,h4,h5,h6){color:var(--hfg)!important}
+:is(.t-a,.t-b,.t-n) :is(code,pre){background:var(--cd)!important;color:var(--fg)!important;border:1px solid var(--ln);border-radius:4px}
+:is(.t-a,.t-b,.t-n) code{padding:.1em .35em;font-size:.92em}
+:is(.t-a,.t-b,.t-n) pre{padding:10px 12px;overflow:auto}
+:is(.t-a,.t-b,.t-n) pre code{background:none!important;border:0;padding:0}
+:is(.t-a,.t-b,.t-n) pre code *{color:inherit!important}
+:is(.t-a,.t-b,.t-n).card{background:var(--bg);color:var(--fg);border:1px solid var(--ln);border-radius:8px;
                     box-shadow:inset 4px 0 0 var(--rl);padding:16px 20px;margin:12px 0}
 .bn{position:relative;display:flex;flex-direction:column;margin:0 0 12px;padding:16px 22px 16px 30px;
     border:1px solid var(--bl);border-radius:10px;overflow:hidden;background:var(--ban);box-shadow:var(--bsh);
