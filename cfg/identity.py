@@ -10,11 +10,18 @@ IX = dict(
 )
 
 # --- libraries ---
+import re
 from IPython.display  import HTML
 
-# --- helper ---
-def make_cell_id(track, kind, module, task):
+# --- helpers ---
+def make_task_id(track, kind, module, task):
     return f'{track}_{kind}_{module}_{task}'.lower()          # a_task_1_1 · b_job_task_1_1
+
+def slugify(s):
+    return re.sub(r'\W+', '_', s.lower()).strip('_')
+
+def make_snippet_id(task_id, action):
+    return f'{task_id}_{slugify(action)}'          # a_task_1_1_data_test
 
 # overall .................................................................................................
 
@@ -66,7 +73,7 @@ TRACK_CSS = '<style>' + ''.join(
 .bn-trk{position:absolute;top:14px;right:18px;display:flex;gap:4px;
         font:600 11px/1 system-ui,sans-serif;letter-spacing:.08em}
 .bn-trk i{font-style:normal;padding:6px 12px;border-radius:999px;border:1px solid var(--ln);color:var(--rl)}
-.t-a .bn-trk i:first-child,.t-b .bn-trk i:last-child{background:var(--rl);border-color:var(--rl);color:var(--bg)}
+.t-a .bn-trk i:is_first_action-child,.t-b .bn-trk i:last-child{background:var(--rl);border-color:var(--rl);color:var(--bg)}
 </style>"""
 
 display(HTML(TRACK_CSS))
