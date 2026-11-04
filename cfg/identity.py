@@ -69,7 +69,9 @@ TRACK_CSS = '<style>' + ''.join(
 .bn-eb{margin-bottom:8px;color:var(--rl);font:600 11px/1 system-ui,-apple-system,'Segoe UI',sans-serif;
        letter-spacing:.16em;text-transform:uppercase}
 .bn :is(h1,h2,h3){margin:0;padding:0;border:0;color:var(--bt)!important;font-family:inherit;font-weight:300;letter-spacing:-.01em}
-.bn p{margin:6px 0 0;color:var(--bs);font:300 14px/1.4 system-ui,-apple-system,'Segoe UI',sans-serif}
+.bn :is(.t-a,.t-b,.t-n) :is(p:not(.bn-sub),li){color:var(--fg)!important}
+.bn{color:var(--bt)}
+.bn p.bn-sub{margin:6px 0 0;color:var(--bs);font:300 14px/1.4 system-ui,-apple-system,'Segoe UI',sans-serif}
 .bn-trk{position:absolute;top:14px;right:18px;display:flex;gap:4px;
         font:600 11px/1 system-ui,sans-serif;letter-spacing:.08em}
 .bn-trk i{font-style:normal;padding:6px 12px;border-radius:999px;border:1px solid var(--ln);color:var(--rl)}
