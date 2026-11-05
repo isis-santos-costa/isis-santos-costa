@@ -76,6 +76,7 @@ TRACK_CSS = '<style>' + ''.join(
         font:600 11px/1 system-ui,sans-serif;letter-spacing:.08em}
 .bn-trk i{font-style:normal;padding:6px 12px;border-radius:999px;border:1px solid var(--ln);color:var(--rl)}
 .bn-trk i.on{background:var(--rl);border-color:var(--rl);color:var(--bg)}
+.t-a .legend,.t-b .legend,.t-n .legend{margin:6px 0 0;color:var(--fg);opacity:.7;font:italic 12px/1.4 system-ui,-apple-system,'Segoe UI',sans-serif}
 </style>"""
 
 display(HTML(TRACK_CSS))
