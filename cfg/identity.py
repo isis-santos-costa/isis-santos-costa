@@ -77,7 +77,8 @@ TRACK_CSS = '<style>' + ''.join(
 .bn-trk i{font-style:normal;padding:6px 12px;border-radius:999px;border:1px solid var(--ln);color:var(--rl)}
 .bn-trk i.on{background:var(--rl);border-color:var(--rl);color:var(--bg)}
 .t-a .legend,.t-b .legend,.t-n .legend{margin:6px 0 0;color:var(--fg);opacity:.7;font:italic 12px/1.4 system-ui,-apple-system,'Segoe UI',sans-serif}
-.t-a .legend a,.t-b .legend a,.t-n .legend a{color:var(--hfg)!important;text-decoration:underline;text-underline-offset:2px}
+.t-a .legend a,.t-n .legend a{color:#1D4ED8!important;text-decoration:underline;text-underline-offset:2px}
+.t-b .legend a{color:var(--hfg)!important;text-decoration:underline;text-underline-offset:2px}
 </style>"""
 
 display(HTML(TRACK_CSS))
