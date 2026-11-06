@@ -62,13 +62,17 @@ TRACK_CSS = '<style>' + ''.join(
 :is(.t-a,.t-b,.t-n) pre code *{color:inherit!important}
 :is(.t-a,.t-b,.t-n).card{background:var(--bg);color:var(--fg);border:1px solid var(--ln);border-radius:8px;
                     box-shadow:inset 4px 0 0 var(--rl);padding:16px 20px;margin:12px 0}
-.bn{position:relative;display:flex;flex-direction:column;margin:0 0 12px;padding:16px 22px 16px 30px;
+.bn{position:relative;display:block;flex-direction:column;margin:0 0 12px;padding:16px 22px 16px 30px;
     border:1px solid var(--bl);border-radius:10px;overflow:hidden;background:var(--ban);box-shadow:var(--bsh);
     font-family:system-ui,-apple-system,'Segoe UI',sans-serif}
+.bn>:first-child{margin-top:0!important}
+.bn>:last-child{margin-bottom:0!important}
+.bn-eb + *,.bn-eb + * > :first-child{margin-top:0!important}
 .bn::before{content:'';position:absolute;inset:0 auto 0 0;width:8px;background:var(--bar)}
 .bn-eb{margin-bottom:8px;color:var(--rl);font:600 11px/1 system-ui,-apple-system,'Segoe UI',sans-serif;
        letter-spacing:.16em;text-transform:uppercase}
 .bn :is(h1,h2,h3){margin:0;padding:0;border:0;color:var(--bt)!important;font-family:inherit;font-weight:300;letter-spacing:-.01em}
+.bn :is(h3,h4){margin:.3em 0 .3em!important}
 .bn :is(.t-a,.t-b,.t-n) :is(p:not(.bn-sub),li){color:var(--fg)!important}
 .bn{color:var(--bt)}
 .bn p.bn-sub{margin:6px 0 0;color:var(--bs);font:300 14px/1.4 system-ui,-apple-system,'Segoe UI',sans-serif}
