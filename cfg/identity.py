@@ -84,7 +84,7 @@ TRACK_CSS = '<style>' + ''.join(
 .t-a .legend,.t-b .legend,.t-n .legend{margin:6px 0 0;color:var(--fg);opacity:.7;font:italic 12px/1.4 system-ui,-apple-system,'Segoe UI',sans-serif}
 .t-a .legend a,.t-n .legend a{color:#1D4ED8!important;text-decoration:underline;text-underline-offset:2px}
 .t-b .legend a{color:var(--hfg)!important;text-decoration:underline;text-underline-offset:2px}
-.dist-row{display:flex;gap:12px;justify-content:center;margin:0 0 12px}
+.dist-row{display:flex;gap:12px;justify-content:center;margin:0 0 12px;align-items:flex-end}
 .dist-row>div{flex:0 0 calc((100% - 12px*(var(--n) - 1)) / var(--n));min-width:0;text-align:center}
 .dist-row img{max-width:100%;height:auto;background:transparent!important}
 </style>"""
