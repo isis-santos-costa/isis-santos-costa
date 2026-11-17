@@ -28,24 +28,33 @@ def make_snippet_id(task_id, action):
 FONT = "system-ui,-apple-system,'Segoe UI',sans-serif"
 
 THEMES = { # Track A, Track B, Neutral
-    'a': dict(head_bg='#EEF2F7', head_fg='#475569', rule='#64748B',
-              body_bg='#F8FAFC', body_fg='#1E293B', zebra='#F1F5F9', hover='#E2E8F0',
-              ban_fg ='#1E293B', ban_sub='#475569', ban_line='#CBD5E1',
-              bar   ='linear-gradient(180deg,#64748B,#334155)', 
-              ban_bg='linear-gradient(135deg,#F8FAFC 0%,#EEF2F7 100%)',
-              line='#E2E8F0',    outer='#CBD5E1',   shadow='0 1px 3px rgba(15,23,42,.10)'),
-    'b': dict(head_bg='#07142A', head_fg='#C8A24A', rule='#C8A24A',
-              body_bg='#0B1B33', body_fg='#F4EFE3', zebra='#0E2240', hover='#142C50',
-              ban_fg ='#F4EFE3', ban_sub='#B9C2D3', ban_line='#1E3354',
-              bar    ='linear-gradient(180deg,#E4C77B 0%,#C8A24A 50%,#8F6F2A 100%)', 
-              ban_bg='linear-gradient(135deg,#0B1B33 0%,#07142A 100%)',
-              line='#1E3354',    outer='#1E3354',   shadow='0 4px 10px rgba(3,10,25,.35)'),
-    'n': dict(head_bg='#D5DEEA', head_fg='#14233B', rule='#4A5B75',
-          body_bg='#EAF0F7', body_fg='#14233B', zebra='#E1E8F2', hover='#D5DEEA',
-          ban_fg ='#14233B', ban_sub='#4A5B75', ban_line='#C3CEDC',
-          bar    ='linear-gradient(180deg,#6B7C95,#14233B)',
-          ban_bg ='linear-gradient(135deg,#EAF0F7 0%,#DDE5F0 100%)',
-          line='#C3CEDC', outer='#C3CEDC', shadow='0 1px 3px rgba(15,23,42,.10)'),
+    'a': dict(
+        head_bg='#EEF2F7', head_fg='#475569', rule='#64748B',
+        body_bg='#F8FAFC', body_fg='#1E293B', zebra='#F1F5F9', hover='#E2E8F0',
+        ban_fg ='#1E293B', ban_sub='#475569', ban_line='#CBD5E1',
+        bar   ='linear-gradient(180deg,#64748B,#334155)',
+        ban_bg='linear-gradient(135deg,#F8FAFC 0%,#EEF2F7 100%)',
+        line='#E2E8F0',    outer='#CBD5E1',   shadow='0 1px 3px rgba(15,23,42,.10)',
+        warn='#B45309', warn_bg='rgba(180,83,9,.10)', ok='#0F766E', ok_bg='rgba(15,118,110,.10)',
+    ),
+    'b': dict(
+        head_bg='#07142A', head_fg='#C8A24A', rule='#C8A24A',
+        body_bg='#0B1B33', body_fg='#F4EFE3', zebra='#0E2240', hover='#142C50',
+        ban_fg ='#F4EFE3', ban_sub='#B9C2D3', ban_line='#1E3354',
+        bar    ='linear-gradient(180deg,#E4C77B 0%,#C8A24A 50%,#8F6F2A 100%)',
+        ban_bg='linear-gradient(135deg,#0B1B33 0%,#07142A 100%)',
+        line='#1E3354',    outer='#1E3354',   shadow='0 4px 10px rgba(3,10,25,.35)',
+        warn='#F2A38C', warn_bg='rgba(242,163,140,.14)', ok='#7FD1C0', ok_bg='rgba(127,209,192,.14)',
+    ),
+    'n': dict(
+        head_bg='#D5DEEA', head_fg='#14233B', rule='#4A5B75',
+        body_bg='#EAF0F7', body_fg='#14233B', zebra='#E1E8F2', hover='#D5DEEA',
+        ban_fg ='#14233B', ban_sub='#4A5B75', ban_line='#C3CEDC',
+        bar    ='linear-gradient(180deg,#6B7C95,#14233B)',
+        ban_bg ='linear-gradient(135deg,#EAF0F7 0%,#DDE5F0 100%)',
+        line='#C3CEDC', outer='#C3CEDC', shadow='0 1px 3px rgba(15,23,42,.10)',
+        warn='#B45309', warn_bg='rgba(180,83,9,.10)', ok='#0F766E', ok_bg='rgba(15,118,110,.10)',
+    ),
 }
 
 TRACK_CSS = '<style>' + ''.join(
