@@ -18,6 +18,7 @@ def make_task_id(track, kind, module, task):
     return f'{track}_{kind}_{module}_{task}'.lower()          # a_task_1_1 · b_job_task_1_1
 
 def slugify(s):
+    s = re.sub(r'\s*\(.*?\)', '', s)
     return re.sub(r'\W+', '_', s.lower()).strip('_')
 
 def make_snippet_id(task_id, action):
@@ -96,6 +97,22 @@ TRACK_CSS = '<style>' + ''.join(
 .dist-row{display:flex;gap:12px;justify-content:center;margin:0 0 12px;align-items:flex-end}
 .dist-row>div{flex:0 0 calc((100% - 12px*(var(--n) - 1)) / var(--n));min-width:0;text-align:center}
 .dist-row img{max-width:100%;height:auto;background:transparent!important}
+.qa{display:flex;gap:.6em;align-items:baseline;margin:.35em 0}
+.qa b{flex:none;white-space:nowrap}
+.qa span{flex:1;min-width:0}
+.qa b{flex:none;padding:.1em .7em;border:1px solid var(--rl);border-radius:999px;
+      color:var(--hfg);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
+.qa img{height:1.1em;width:auto;vertical-align:-.15em;margin:0 .3em}
+.hd{font:300 24px/1.2 system-ui,-apple-system,'Segoe UI',sans-serif;color:var(--fg);margin:.2em 0 .7em}
+.hd small{font-size:12px;font-weight:600;letter-spacing:.04em;color:var(--hfg);border:1px solid var(--ln);
+          border-radius:999px;padding:.1em .7em;margin-left:.6em;vertical-align:middle}
+.sh{font-weight:600;font-size:15px;color:var(--hfg);margin:1.3em 0 .4em}
+.note{font-size:13px;opacity:.8;margin:.2em 0 .8em}
+.kpis{display:flex;gap:10px;flex-wrap:wrap;margin:.8em 0}
+.kpi{flex:1 1 9rem;padding:.7em .9em;border:1px solid var(--ln);border-radius:8px;background:var(--cd)}
+.kpi small{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--hfg)}
+.kpi b{display:block;font-size:22px;font-weight:600;color:var(--fg)}
+.kpi span{font-size:12px;opacity:.75}
 </style>"""
 
 display(HTML(TRACK_CSS))
